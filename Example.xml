@@ -1,0 +1,4516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Ableton MajorVersion="5" MinorVersion="11.0_11300" SchemaChangeCount="4" Creator="Ableton Live 11.3.25" Revision="c493de3b05e4d20906af1f1e5079b00ab876c375">
+	<LiveSet>
+		<NextPointeeId Value="22215" />
+		<OverwriteProtectionNumber Value="2819" />
+		<LomId Value="0" />
+		<LomIdView Value="0" />
+		<Tracks>
+			<AudioTrack Id="16">
+				<LomId Value="0" />
+				<LomIdView Value="0" />
+				<IsContentSelectedInDocument Value="false" />
+				<PreferredContentViewMode Value="0" />
+				<TrackDelay>
+					<Value Value="0" />
+					<IsValueSampleBased Value="false" />
+				</TrackDelay>
+				<Name>
+					<EffectiveName Value="1-01 - Teachers" />
+					<UserName Value="" />
+					<Annotation Value="" />
+					<MemorizedFirstClipName Value="01 - Teachers" />
+				</Name>
+				<Color Value="20" />
+				<AutomationEnvelopes>
+					<Envelopes />
+				</AutomationEnvelopes>
+				<TrackGroupId Value="-1" />
+				<TrackUnfolded Value="true" />
+				<DevicesListWrapper LomId="0" />
+				<ClipSlotsListWrapper LomId="0" />
+				<ViewData Value="{}" />
+				<TakeLanes>
+					<TakeLanes />
+					<AreTakeLanesFolded Value="true" />
+				</TakeLanes>
+				<LinkedTrackGroupId Value="-1" />
+				<SavedPlayingSlot Value="-1" />
+				<SavedPlayingOffset Value="0" />
+				<Freeze Value="false" />
+				<VelocityDetail Value="0" />
+				<NeedArrangerRefreeze Value="true" />
+				<PostProcessFreezeClips Value="0" />
+				<DeviceChain>
+					<AutomationLanes>
+						<AutomationLanes>
+							<AutomationLane Id="0">
+								<SelectedDevice Value="0" />
+								<SelectedEnvelope Value="0" />
+								<IsContentSelectedInDocument Value="false" />
+								<LaneHeight Value="68" />
+							</AutomationLane>
+						</AutomationLanes>
+						<AreAdditionalAutomationLanesFolded Value="false" />
+					</AutomationLanes>
+					<ClipEnvelopeChooserViewState>
+						<SelectedDevice Value="0" />
+						<SelectedEnvelope Value="0" />
+						<PreferModulationVisible Value="false" />
+					</ClipEnvelopeChooserViewState>
+					<AudioInputRouting>
+						<Target Value="AudioIn/External/S0" />
+						<UpperDisplayString Value="Ext. In" />
+						<LowerDisplayString Value="1/2" />
+						<MpeSettings>
+							<ZoneType Value="0" />
+							<FirstNoteChannel Value="1" />
+							<LastNoteChannel Value="15" />
+						</MpeSettings>
+					</AudioInputRouting>
+					<MidiInputRouting>
+						<Target Value="MidiIn/External.All/-1" />
+						<UpperDisplayString Value="Ext: All Ins" />
+						<LowerDisplayString Value="" />
+						<MpeSettings>
+							<ZoneType Value="0" />
+							<FirstNoteChannel Value="1" />
+							<LastNoteChannel Value="15" />
+						</MpeSettings>
+					</MidiInputRouting>
+					<AudioOutputRouting>
+						<Target Value="AudioOut/Master" />
+						<UpperDisplayString Value="Master" />
+						<LowerDisplayString Value="" />
+						<MpeSettings>
+							<ZoneType Value="0" />
+							<FirstNoteChannel Value="1" />
+							<LastNoteChannel Value="15" />
+						</MpeSettings>
+					</AudioOutputRouting>
+					<MidiOutputRouting>
+						<Target Value="MidiOut/None" />
+						<UpperDisplayString Value="None" />
+						<LowerDisplayString Value="" />
+						<MpeSettings>
+							<ZoneType Value="0" />
+							<FirstNoteChannel Value="1" />
+							<LastNoteChannel Value="15" />
+						</MpeSettings>
+					</MidiOutputRouting>
+					<Mixer>
+						<LomId Value="0" />
+						<LomIdView Value="0" />
+						<IsExpanded Value="true" />
+						<On>
+							<LomId Value="0" />
+							<Manual Value="true" />
+							<AutomationTarget Id="22185">
+								<LockEnvelope Value="0" />
+							</AutomationTarget>
+							<MidiCCOnOffThresholds>
+								<Min Value="64" />
+								<Max Value="127" />
+							</MidiCCOnOffThresholds>
+						</On>
+						<ModulationSourceCount Value="0" />
+						<ParametersListWrapper LomId="0" />
+						<Pointee Id="22186" />
+						<LastSelectedTimeableIndex Value="0" />
+						<LastSelectedClipEnvelopeIndex Value="0" />
+						<LastPresetRef>
+							<Value />
+						</LastPresetRef>
+						<LockedScripts />
+						<IsFolded Value="false" />
+						<ShouldShowPresetName Value="false" />
+						<UserName Value="" />
+						<Annotation Value="" />
+						<SourceContext>
+							<Value />
+						</SourceContext>
+						<Sends>
+							<TrackSendHolder Id="0">
+								<Send>
+									<LomId Value="0" />
+									<Manual Value="0.0003162277571" />
+									<MidiControllerRange>
+										<Min Value="0.0003162277571" />
+										<Max Value="1" />
+									</MidiControllerRange>
+									<AutomationTarget Id="22187">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="22188">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</Send>
+								<Active Value="true" />
+							</TrackSendHolder>
+							<TrackSendHolder Id="1">
+								<Send>
+									<LomId Value="0" />
+									<Manual Value="0.0003162277571" />
+									<MidiControllerRange>
+										<Min Value="0.0003162277571" />
+										<Max Value="1" />
+									</MidiControllerRange>
+									<AutomationTarget Id="22189">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="22190">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</Send>
+								<Active Value="true" />
+							</TrackSendHolder>
+						</Sends>
+						<Speaker>
+							<LomId Value="0" />
+							<Manual Value="true" />
+							<AutomationTarget Id="22191">
+								<LockEnvelope Value="0" />
+							</AutomationTarget>
+							<MidiCCOnOffThresholds>
+								<Min Value="64" />
+								<Max Value="127" />
+							</MidiCCOnOffThresholds>
+						</Speaker>
+						<SoloSink Value="false" />
+						<PanMode Value="0" />
+						<Pan>
+							<LomId Value="0" />
+							<Manual Value="0" />
+							<MidiControllerRange>
+								<Min Value="-1" />
+								<Max Value="1" />
+							</MidiControllerRange>
+							<AutomationTarget Id="22192">
+								<LockEnvelope Value="0" />
+							</AutomationTarget>
+							<ModulationTarget Id="22193">
+								<LockEnvelope Value="0" />
+							</ModulationTarget>
+						</Pan>
+						<SplitStereoPanL>
+							<LomId Value="0" />
+							<Manual Value="-1" />
+							<MidiControllerRange>
+								<Min Value="-1" />
+								<Max Value="1" />
+							</MidiControllerRange>
+							<AutomationTarget Id="22194">
+								<LockEnvelope Value="0" />
+							</AutomationTarget>
+							<ModulationTarget Id="22195">
+								<LockEnvelope Value="0" />
+							</ModulationTarget>
+						</SplitStereoPanL>
+						<SplitStereoPanR>
+							<LomId Value="0" />
+							<Manual Value="1" />
+							<MidiControllerRange>
+								<Min Value="-1" />
+								<Max Value="1" />
+							</MidiControllerRange>
+							<AutomationTarget Id="22196">
+								<LockEnvelope Value="0" />
+							</AutomationTarget>
+							<ModulationTarget Id="22197">
+								<LockEnvelope Value="0" />
+							</ModulationTarget>
+						</SplitStereoPanR>
+						<Volume>
+							<LomId Value="0" />
+							<Manual Value="1" />
+							<MidiControllerRange>
+								<Min Value="0.0003162277571" />
+								<Max Value="1.99526238" />
+							</MidiControllerRange>
+							<AutomationTarget Id="22198">
+								<LockEnvelope Value="0" />
+							</AutomationTarget>
+							<ModulationTarget Id="22199">
+								<LockEnvelope Value="0" />
+							</ModulationTarget>
+						</Volume>
+						<ViewStateSesstionTrackWidth Value="93" />
+						<CrossFadeState>
+							<LomId Value="0" />
+							<Manual Value="1" />
+							<AutomationTarget Id="22200">
+								<LockEnvelope Value="0" />
+							</AutomationTarget>
+						</CrossFadeState>
+						<SendsListWrapper LomId="0" />
+					</Mixer>
+					<MainSequencer>
+						<LomId Value="0" />
+						<LomIdView Value="0" />
+						<IsExpanded Value="true" />
+						<On>
+							<LomId Value="0" />
+							<Manual Value="true" />
+							<AutomationTarget Id="22201">
+								<LockEnvelope Value="0" />
+							</AutomationTarget>
+							<MidiCCOnOffThresholds>
+								<Min Value="64" />
+								<Max Value="127" />
+							</MidiCCOnOffThresholds>
+						</On>
+						<ModulationSourceCount Value="0" />
+						<ParametersListWrapper LomId="0" />
+						<Pointee Id="22202" />
+						<LastSelectedTimeableIndex Value="0" />
+						<LastSelectedClipEnvelopeIndex Value="0" />
+						<LastPresetRef>
+							<Value />
+						</LastPresetRef>
+						<LockedScripts />
+						<IsFolded Value="false" />
+						<ShouldShowPresetName Value="true" />
+						<UserName Value="" />
+						<Annotation Value="" />
+						<SourceContext>
+							<Value />
+						</SourceContext>
+						<ClipSlotList>
+							<ClipSlot Id="0">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+								<NeedRefreeze Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="1">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+								<NeedRefreeze Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="2">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+								<NeedRefreeze Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="3">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+								<NeedRefreeze Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="4">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+								<NeedRefreeze Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="5">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+								<NeedRefreeze Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="6">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+								<NeedRefreeze Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="7">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+								<NeedRefreeze Value="true" />
+							</ClipSlot>
+						</ClipSlotList>
+						<MonitoringEnum Value="1" />
+						<Sample>
+							<ArrangerAutomation>
+								<Events>
+									<AudioClip Id="0" Time="32">
+										<LomId Value="0" />
+										<LomIdView Value="0" />
+										<CurrentStart Value="32" />
+										<CurrentEnd Value="555.25335705960708" />
+										<Loop>
+											<LoopStart Value="0" />
+											<LoopEnd Value="523.25335705960708" />
+											<StartRelative Value="0" />
+											<LoopOn Value="false" />
+											<OutMarker Value="523.25335705960708" />
+											<HiddenLoopStart Value="0" />
+											<HiddenLoopEnd Value="4" />
+										</Loop>
+										<Name Value="01 - Teachers" />
+										<Annotation Value="" />
+										<Color Value="20" />
+										<LaunchMode Value="0" />
+										<LaunchQuantisation Value="0" />
+										<TimeSignature>
+											<TimeSignatures>
+												<RemoteableTimeSignature Id="0">
+													<Numerator Value="4" />
+													<Denominator Value="4" />
+													<Time Value="0" />
+												</RemoteableTimeSignature>
+											</TimeSignatures>
+										</TimeSignature>
+										<Envelopes>
+											<Envelopes />
+										</Envelopes>
+										<ScrollerTimePreserver>
+											<LeftTime Value="0" />
+											<RightTime Value="523.25335705960708" />
+										</ScrollerTimePreserver>
+										<TimeSelection>
+											<AnchorTime Value="0" />
+											<OtherTime Value="0" />
+										</TimeSelection>
+										<Legato Value="false" />
+										<Ram Value="false" />
+										<GrooveSettings>
+											<GrooveId Value="-1" />
+										</GrooveSettings>
+										<Disabled Value="false" />
+										<VelocityAmount Value="0" />
+										<FollowAction>
+											<FollowTime Value="4" />
+											<IsLinked Value="true" />
+											<LoopIterations Value="1" />
+											<FollowActionA Value="4" />
+											<FollowActionB Value="0" />
+											<FollowChanceA Value="100" />
+											<FollowChanceB Value="0" />
+											<JumpIndexA Value="1" />
+											<JumpIndexB Value="1" />
+											<FollowActionEnabled Value="false" />
+										</FollowAction>
+										<Grid>
+											<FixedNumerator Value="1" />
+											<FixedDenominator Value="16" />
+											<GridIntervalPixel Value="20" />
+											<Ntoles Value="2" />
+											<SnapToGrid Value="true" />
+											<Fixed Value="false" />
+										</Grid>
+										<FreezeStart Value="0" />
+										<FreezeEnd Value="0" />
+										<IsWarped Value="true" />
+										<TakeId Value="1" />
+										<SampleRef>
+											<FileRef>
+												<RelativePathType Value="1" />
+												<RelativePath Value="../../../Soulseek Downloads/complete/LemFK/Soulwax - 2008 - Part of the Weekend Never Dies - Live at Fabric and 120 Other Places [Album]/01 - Teachers.flac" />
+												<Path Value="C:/Users/martin/Documents/Soulseek Downloads/complete/LemFK/Soulwax - 2008 - Part of the Weekend Never Dies - Live at Fabric and 120 Other Places [Album]/01 - Teachers.flac" />
+												<Type Value="1" />
+												<LivePackName Value="" />
+												<LivePackId Value="" />
+												<OriginalFileSize Value="35676764" />
+												<OriginalCrc Value="12884" />
+											</FileRef>
+											<LastModDate Value="1701891049" />
+											<SourceContext>
+												<SourceContext Id="0">
+													<OriginalFileRef>
+														<FileRef Id="0">
+															<RelativePathType Value="1" />
+															<RelativePath Value="../../../Soulseek Downloads/complete/LemFK/Soulwax - 2008 - Part of the Weekend Never Dies - Live at Fabric and 120 Other Places [Album]/01 - Teachers.flac" />
+															<Path Value="C:/Users/martin/Documents/Soulseek Downloads/complete/LemFK/Soulwax - 2008 - Part of the Weekend Never Dies - Live at Fabric and 120 Other Places [Album]/01 - Teachers.flac" />
+															<Type Value="1" />
+															<LivePackName Value="" />
+															<LivePackId Value="" />
+															<OriginalFileSize Value="35676764" />
+															<OriginalCrc Value="12884" />
+														</FileRef>
+													</OriginalFileRef>
+													<BrowserContentPath Value="userfolder:C:%5CUsers%5Cmartin%5CDocuments%5CSoulseek%20Downloads%5Ccomplete#LemFK:Soulwax%20-%202008%20-%20Part%20of%20the%20Weekend%20Never%20Dies%20-%20Live%20at%20Fabric%20and%20120%20Other%20Places%20[Album]:01%20-%20Teachers.flac" />
+												</SourceContext>
+											</SourceContext>
+											<SampleUsageHint Value="0" />
+											<DefaultDuration Value="11537736" />
+											<DefaultSampleRate Value="44100" />
+										</SampleRef>
+										<Onsets>
+											<UserOnsets />
+											<HasUserOnsets Value="false" />
+										</Onsets>
+										<WarpMode Value="4" />
+										<GranularityTones Value="30" />
+										<GranularityTexture Value="65" />
+										<FluctuationTexture Value="25" />
+										<TransientResolution Value="6" />
+										<TransientLoopMode Value="2" />
+										<TransientEnvelope Value="100" />
+										<ComplexProFormants Value="100" />
+										<ComplexProEnvelope Value="128" />
+										<Sync Value="true" />
+										<HiQ Value="true" />
+										<Fade Value="false" />
+										<Fades>
+											<FadeInLength Value="0" />
+											<FadeOutLength Value="0" />
+											<ClipFadesAreInitialized Value="true" />
+											<CrossfadeInState Value="0" />
+											<FadeInCurveSkew Value="0" />
+											<FadeInCurveSlope Value="0" />
+											<FadeOutCurveSkew Value="0" />
+											<FadeOutCurveSlope Value="0" />
+											<IsDefaultFadeIn Value="false" />
+											<IsDefaultFadeOut Value="false" />
+										</Fades>
+										<PitchCoarse Value="0" />
+										<PitchFine Value="0" />
+										<SampleVolume Value="1" />
+										<WarpMarkers>
+											<WarpMarker Id="2" SecTime="0" BeatTime="0" />
+											<WarpMarker Id="3" SecTime="0.0156249992952666901" BeatTime="0.03125" />
+										</WarpMarkers>
+										<SavedWarpMarkersForStretched />
+										<MarkersGenerated Value="true" />
+										<IsSongTempoMaster Value="false" />
+									</AudioClip>
+								</Events>
+								<AutomationTransformViewState>
+									<IsTransformPending Value="false" />
+									<TimeAndValueTransforms />
+								</AutomationTransformViewState>
+							</ArrangerAutomation>
+						</Sample>
+						<VolumeModulationTarget Id="22203">
+							<LockEnvelope Value="0" />
+						</VolumeModulationTarget>
+						<TranspositionModulationTarget Id="22204">
+							<LockEnvelope Value="0" />
+						</TranspositionModulationTarget>
+						<GrainSizeModulationTarget Id="22205">
+							<LockEnvelope Value="0" />
+						</GrainSizeModulationTarget>
+						<FluxModulationTarget Id="22206">
+							<LockEnvelope Value="0" />
+						</FluxModulationTarget>
+						<SampleOffsetModulationTarget Id="22207">
+							<LockEnvelope Value="0" />
+						</SampleOffsetModulationTarget>
+						<PitchViewScrollPosition Value="-1073741824" />
+						<SampleOffsetModulationScrollPosition Value="-1073741824" />
+						<Recorder>
+							<IsArmed Value="false" />
+							<TakeCounter Value="1" />
+						</Recorder>
+					</MainSequencer>
+					<FreezeSequencer>
+						<LomId Value="0" />
+						<LomIdView Value="0" />
+						<IsExpanded Value="true" />
+						<On>
+							<LomId Value="0" />
+							<Manual Value="true" />
+							<AutomationTarget Id="22208">
+								<LockEnvelope Value="0" />
+							</AutomationTarget>
+							<MidiCCOnOffThresholds>
+								<Min Value="64" />
+								<Max Value="127" />
+							</MidiCCOnOffThresholds>
+						</On>
+						<ModulationSourceCount Value="0" />
+						<ParametersListWrapper LomId="0" />
+						<Pointee Id="22209" />
+						<LastSelectedTimeableIndex Value="0" />
+						<LastSelectedClipEnvelopeIndex Value="0" />
+						<LastPresetRef>
+							<Value />
+						</LastPresetRef>
+						<LockedScripts />
+						<IsFolded Value="false" />
+						<ShouldShowPresetName Value="true" />
+						<UserName Value="" />
+						<Annotation Value="" />
+						<SourceContext>
+							<Value />
+						</SourceContext>
+						<ClipSlotList>
+							<ClipSlot Id="0">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+								<NeedRefreeze Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="1">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+								<NeedRefreeze Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="2">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+								<NeedRefreeze Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="3">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+								<NeedRefreeze Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="4">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+								<NeedRefreeze Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="5">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+								<NeedRefreeze Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="6">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+								<NeedRefreeze Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="7">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+								<NeedRefreeze Value="true" />
+							</ClipSlot>
+						</ClipSlotList>
+						<MonitoringEnum Value="1" />
+						<Sample>
+							<ArrangerAutomation>
+								<Events />
+								<AutomationTransformViewState>
+									<IsTransformPending Value="false" />
+									<TimeAndValueTransforms />
+								</AutomationTransformViewState>
+							</ArrangerAutomation>
+						</Sample>
+						<VolumeModulationTarget Id="22210">
+							<LockEnvelope Value="0" />
+						</VolumeModulationTarget>
+						<TranspositionModulationTarget Id="22211">
+							<LockEnvelope Value="0" />
+						</TranspositionModulationTarget>
+						<GrainSizeModulationTarget Id="22212">
+							<LockEnvelope Value="0" />
+						</GrainSizeModulationTarget>
+						<FluxModulationTarget Id="22213">
+							<LockEnvelope Value="0" />
+						</FluxModulationTarget>
+						<SampleOffsetModulationTarget Id="22214">
+							<LockEnvelope Value="0" />
+						</SampleOffsetModulationTarget>
+						<PitchViewScrollPosition Value="-1073741824" />
+						<SampleOffsetModulationScrollPosition Value="-1073741824" />
+						<Recorder>
+							<IsArmed Value="false" />
+							<TakeCounter Value="1" />
+						</Recorder>
+					</FreezeSequencer>
+					<DeviceChain>
+						<Devices />
+						<SignalModulations />
+					</DeviceChain>
+				</DeviceChain>
+			</AudioTrack>
+			<AudioTrack Id="8">
+				<LomId Value="0" />
+				<LomIdView Value="0" />
+				<IsContentSelectedInDocument Value="true" />
+				<PreferredContentViewMode Value="0" />
+				<TrackDelay>
+					<Value Value="0" />
+					<IsValueSampleBased Value="false" />
+				</TrackDelay>
+				<Name>
+					<EffectiveName Value="2-01 - Konishi Yasuharu - Micky Mouse Club March" />
+					<UserName Value="" />
+					<Annotation Value="" />
+					<MemorizedFirstClipName Value="01 - Konishi Yasuharu - Micky Mouse Club March" />
+				</Name>
+				<Color Value="7" />
+				<AutomationEnvelopes>
+					<Envelopes />
+				</AutomationEnvelopes>
+				<TrackGroupId Value="-1" />
+				<TrackUnfolded Value="true" />
+				<DevicesListWrapper LomId="0" />
+				<ClipSlotsListWrapper LomId="0" />
+				<ViewData Value="{}" />
+				<TakeLanes>
+					<TakeLanes />
+					<AreTakeLanesFolded Value="true" />
+				</TakeLanes>
+				<LinkedTrackGroupId Value="-1" />
+				<SavedPlayingSlot Value="-1" />
+				<SavedPlayingOffset Value="0" />
+				<Freeze Value="false" />
+				<VelocityDetail Value="0" />
+				<NeedArrangerRefreeze Value="true" />
+				<PostProcessFreezeClips Value="0" />
+				<DeviceChain>
+					<AutomationLanes>
+						<AutomationLanes>
+							<AutomationLane Id="0">
+								<SelectedDevice Value="0" />
+								<SelectedEnvelope Value="0" />
+								<IsContentSelectedInDocument Value="false" />
+								<LaneHeight Value="68" />
+							</AutomationLane>
+						</AutomationLanes>
+						<AreAdditionalAutomationLanesFolded Value="false" />
+					</AutomationLanes>
+					<ClipEnvelopeChooserViewState>
+						<SelectedDevice Value="1" />
+						<SelectedEnvelope Value="4" />
+						<PreferModulationVisible Value="true" />
+					</ClipEnvelopeChooserViewState>
+					<AudioInputRouting>
+						<Target Value="AudioIn/External/M0" />
+						<UpperDisplayString Value="Ext. In" />
+						<LowerDisplayString Value="1" />
+						<MpeSettings>
+							<ZoneType Value="0" />
+							<FirstNoteChannel Value="1" />
+							<LastNoteChannel Value="15" />
+						</MpeSettings>
+					</AudioInputRouting>
+					<MidiInputRouting>
+						<Target Value="MidiIn/External.All/-1" />
+						<UpperDisplayString Value="Ext: All Ins" />
+						<LowerDisplayString Value="" />
+						<MpeSettings>
+							<ZoneType Value="0" />
+							<FirstNoteChannel Value="1" />
+							<LastNoteChannel Value="15" />
+						</MpeSettings>
+					</MidiInputRouting>
+					<AudioOutputRouting>
+						<Target Value="AudioOut/Master" />
+						<UpperDisplayString Value="Master" />
+						<LowerDisplayString Value="" />
+						<MpeSettings>
+							<ZoneType Value="0" />
+							<FirstNoteChannel Value="1" />
+							<LastNoteChannel Value="15" />
+						</MpeSettings>
+					</AudioOutputRouting>
+					<MidiOutputRouting>
+						<Target Value="MidiOut/None" />
+						<UpperDisplayString Value="None" />
+						<LowerDisplayString Value="" />
+						<MpeSettings>
+							<ZoneType Value="0" />
+							<FirstNoteChannel Value="1" />
+							<LastNoteChannel Value="15" />
+						</MpeSettings>
+					</MidiOutputRouting>
+					<Mixer>
+						<LomId Value="0" />
+						<LomIdView Value="0" />
+						<IsExpanded Value="true" />
+						<On>
+							<LomId Value="0" />
+							<Manual Value="true" />
+							<AutomationTarget Id="8630">
+								<LockEnvelope Value="0" />
+							</AutomationTarget>
+							<MidiCCOnOffThresholds>
+								<Min Value="64" />
+								<Max Value="127" />
+							</MidiCCOnOffThresholds>
+						</On>
+						<ModulationSourceCount Value="0" />
+						<ParametersListWrapper LomId="0" />
+						<Pointee Id="19718" />
+						<LastSelectedTimeableIndex Value="2" />
+						<LastSelectedClipEnvelopeIndex Value="2" />
+						<LastPresetRef>
+							<Value />
+						</LastPresetRef>
+						<LockedScripts />
+						<IsFolded Value="false" />
+						<ShouldShowPresetName Value="false" />
+						<UserName Value="" />
+						<Annotation Value="" />
+						<SourceContext>
+							<Value />
+						</SourceContext>
+						<Sends>
+							<TrackSendHolder Id="0">
+								<Send>
+									<LomId Value="0" />
+									<Manual Value="0.0003162277571" />
+									<MidiControllerRange>
+										<Min Value="0.0003162277571" />
+										<Max Value="1" />
+									</MidiControllerRange>
+									<AutomationTarget Id="8631">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="8632">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</Send>
+								<Active Value="true" />
+							</TrackSendHolder>
+							<TrackSendHolder Id="1">
+								<Send>
+									<LomId Value="0" />
+									<Manual Value="0.0003162277571" />
+									<MidiControllerRange>
+										<Min Value="0.0003162277571" />
+										<Max Value="1" />
+									</MidiControllerRange>
+									<AutomationTarget Id="8633">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="8634">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</Send>
+								<Active Value="true" />
+							</TrackSendHolder>
+						</Sends>
+						<Speaker>
+							<LomId Value="0" />
+							<Manual Value="true" />
+							<AutomationTarget Id="8635">
+								<LockEnvelope Value="0" />
+							</AutomationTarget>
+							<MidiCCOnOffThresholds>
+								<Min Value="64" />
+								<Max Value="127" />
+							</MidiCCOnOffThresholds>
+						</Speaker>
+						<SoloSink Value="false" />
+						<PanMode Value="0" />
+						<Pan>
+							<LomId Value="0" />
+							<Manual Value="0" />
+							<MidiControllerRange>
+								<Min Value="-1" />
+								<Max Value="1" />
+							</MidiControllerRange>
+							<AutomationTarget Id="8636">
+								<LockEnvelope Value="0" />
+							</AutomationTarget>
+							<ModulationTarget Id="8637">
+								<LockEnvelope Value="0" />
+							</ModulationTarget>
+						</Pan>
+						<SplitStereoPanL>
+							<LomId Value="0" />
+							<Manual Value="-1" />
+							<MidiControllerRange>
+								<Min Value="-1" />
+								<Max Value="1" />
+							</MidiControllerRange>
+							<AutomationTarget Id="16159">
+								<LockEnvelope Value="0" />
+							</AutomationTarget>
+							<ModulationTarget Id="16160">
+								<LockEnvelope Value="0" />
+							</ModulationTarget>
+						</SplitStereoPanL>
+						<SplitStereoPanR>
+							<LomId Value="0" />
+							<Manual Value="1" />
+							<MidiControllerRange>
+								<Min Value="-1" />
+								<Max Value="1" />
+							</MidiControllerRange>
+							<AutomationTarget Id="16161">
+								<LockEnvelope Value="0" />
+							</AutomationTarget>
+							<ModulationTarget Id="16162">
+								<LockEnvelope Value="0" />
+							</ModulationTarget>
+						</SplitStereoPanR>
+						<Volume>
+							<LomId Value="0" />
+							<Manual Value="1" />
+							<MidiControllerRange>
+								<Min Value="0.0003162277571" />
+								<Max Value="1.99526238" />
+							</MidiControllerRange>
+							<AutomationTarget Id="8638">
+								<LockEnvelope Value="0" />
+							</AutomationTarget>
+							<ModulationTarget Id="8639">
+								<LockEnvelope Value="0" />
+							</ModulationTarget>
+						</Volume>
+						<ViewStateSesstionTrackWidth Value="93" />
+						<CrossFadeState>
+							<LomId Value="0" />
+							<Manual Value="1" />
+							<AutomationTarget Id="8640">
+								<LockEnvelope Value="0" />
+							</AutomationTarget>
+						</CrossFadeState>
+						<SendsListWrapper LomId="0" />
+					</Mixer>
+					<MainSequencer>
+						<LomId Value="0" />
+						<LomIdView Value="0" />
+						<IsExpanded Value="true" />
+						<On>
+							<LomId Value="0" />
+							<Manual Value="true" />
+							<AutomationTarget Id="8641">
+								<LockEnvelope Value="0" />
+							</AutomationTarget>
+							<MidiCCOnOffThresholds>
+								<Min Value="64" />
+								<Max Value="127" />
+							</MidiCCOnOffThresholds>
+						</On>
+						<ModulationSourceCount Value="0" />
+						<ParametersListWrapper LomId="0" />
+						<Pointee Id="19719" />
+						<LastSelectedTimeableIndex Value="0" />
+						<LastSelectedClipEnvelopeIndex Value="0" />
+						<LastPresetRef>
+							<Value />
+						</LastPresetRef>
+						<LockedScripts />
+						<IsFolded Value="false" />
+						<ShouldShowPresetName Value="false" />
+						<UserName Value="" />
+						<Annotation Value="" />
+						<SourceContext>
+							<Value />
+						</SourceContext>
+						<ClipSlotList>
+							<ClipSlot Id="0">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+								<NeedRefreeze Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="1">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+								<NeedRefreeze Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="2">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+								<NeedRefreeze Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="3">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+								<NeedRefreeze Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="4">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+								<NeedRefreeze Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="5">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+								<NeedRefreeze Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="6">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+								<NeedRefreeze Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="7">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+								<NeedRefreeze Value="true" />
+							</ClipSlot>
+						</ClipSlotList>
+						<MonitoringEnum Value="2" />
+						<Sample>
+							<ArrangerAutomation>
+								<Events>
+									<AudioClip Id="0" Time="512">
+										<LomId Value="0" />
+										<LomIdView Value="0" />
+										<CurrentStart Value="512" />
+										<CurrentEnd Value="1014.4019327027139" />
+										<Loop>
+											<LoopStart Value="0" />
+											<LoopEnd Value="502.40193270271396" />
+											<StartRelative Value="0" />
+											<LoopOn Value="false" />
+											<OutMarker Value="502.40193270271396" />
+											<HiddenLoopStart Value="0" />
+											<HiddenLoopEnd Value="4" />
+										</Loop>
+										<Name Value="01 - Konishi Yasuharu - Micky Mouse Club March" />
+										<Annotation Value="" />
+										<Color Value="7" />
+										<LaunchMode Value="0" />
+										<LaunchQuantisation Value="0" />
+										<TimeSignature>
+											<TimeSignatures>
+												<RemoteableTimeSignature Id="0">
+													<Numerator Value="4" />
+													<Denominator Value="4" />
+													<Time Value="0" />
+												</RemoteableTimeSignature>
+											</TimeSignatures>
+										</TimeSignature>
+										<Envelopes>
+											<Envelopes />
+										</Envelopes>
+										<ScrollerTimePreserver>
+											<LeftTime Value="0" />
+											<RightTime Value="342.93331902472528" />
+										</ScrollerTimePreserver>
+										<TimeSelection>
+											<AnchorTime Value="0" />
+											<OtherTime Value="0" />
+										</TimeSelection>
+										<Legato Value="false" />
+										<Ram Value="false" />
+										<GrooveSettings>
+											<GrooveId Value="-1" />
+										</GrooveSettings>
+										<Disabled Value="false" />
+										<VelocityAmount Value="0" />
+										<FollowAction>
+											<FollowTime Value="4" />
+											<IsLinked Value="true" />
+											<LoopIterations Value="1" />
+											<FollowActionA Value="4" />
+											<FollowActionB Value="0" />
+											<FollowChanceA Value="100" />
+											<FollowChanceB Value="0" />
+											<JumpIndexA Value="1" />
+											<JumpIndexB Value="1" />
+											<FollowActionEnabled Value="false" />
+										</FollowAction>
+										<Grid>
+											<FixedNumerator Value="1" />
+											<FixedDenominator Value="16" />
+											<GridIntervalPixel Value="20" />
+											<Ntoles Value="2" />
+											<SnapToGrid Value="true" />
+											<Fixed Value="false" />
+										</Grid>
+										<FreezeStart Value="0" />
+										<FreezeEnd Value="0" />
+										<IsWarped Value="true" />
+										<TakeId Value="1" />
+										<SampleRef>
+											<FileRef>
+												<RelativePathType Value="1" />
+												<RelativePath Value="../../../Soulseek Downloads/complete/Mortadela/Konishi Yasuharu - Readymade Digs Disney (2003) [FLAC]/01 - Konishi Yasuharu - Micky Mouse Club March.flac" />
+												<Path Value="C:/Users/martin/Documents/Soulseek Downloads/complete/Mortadela/Konishi Yasuharu - Readymade Digs Disney (2003) [FLAC]/01 - Konishi Yasuharu - Micky Mouse Club March.flac" />
+												<Type Value="1" />
+												<LivePackName Value="" />
+												<LivePackId Value="" />
+												<OriginalFileSize Value="22185941" />
+												<OriginalCrc Value="17978" />
+											</FileRef>
+											<LastModDate Value="1689750687" />
+											<SourceContext>
+												<SourceContext Id="0">
+													<OriginalFileRef>
+														<FileRef Id="0">
+															<RelativePathType Value="1" />
+															<RelativePath Value="../../../Soulseek Downloads/complete/Mortadela/Konishi Yasuharu - Readymade Digs Disney (2003) [FLAC]/01 - Konishi Yasuharu - Micky Mouse Club March.flac" />
+															<Path Value="C:/Users/martin/Documents/Soulseek Downloads/complete/Mortadela/Konishi Yasuharu - Readymade Digs Disney (2003) [FLAC]/01 - Konishi Yasuharu - Micky Mouse Club March.flac" />
+															<Type Value="1" />
+															<LivePackName Value="" />
+															<LivePackId Value="" />
+															<OriginalFileSize Value="22185941" />
+															<OriginalCrc Value="17978" />
+														</FileRef>
+													</OriginalFileRef>
+													<BrowserContentPath Value="userfolder:C:%5CUsers%5Cmartin%5CDocuments%5CSoulseek%20Downloads%5Ccomplete#Mortadela:Konishi%20Yasuharu%20-%20Readymade%20Digs%20Disney%20(2003)%20[FLAC]:01%20-%20Konishi%20Yasuharu%20-%20Micky%20Mouse%20Club%20March.flac" />
+												</SourceContext>
+											</SourceContext>
+											<SampleUsageHint Value="0" />
+											<DefaultDuration Value="7561680" />
+											<DefaultSampleRate Value="44100" />
+										</SampleRef>
+										<Onsets>
+											<UserOnsets />
+											<HasUserOnsets Value="false" />
+										</Onsets>
+										<WarpMode Value="4" />
+										<GranularityTones Value="30" />
+										<GranularityTexture Value="65" />
+										<FluctuationTexture Value="25" />
+										<TransientResolution Value="6" />
+										<TransientLoopMode Value="2" />
+										<TransientEnvelope Value="100" />
+										<ComplexProFormants Value="100" />
+										<ComplexProEnvelope Value="128" />
+										<Sync Value="true" />
+										<HiQ Value="true" />
+										<Fade Value="false" />
+										<Fades>
+											<FadeInLength Value="0" />
+											<FadeOutLength Value="0" />
+											<ClipFadesAreInitialized Value="true" />
+											<CrossfadeInState Value="0" />
+											<FadeInCurveSkew Value="0" />
+											<FadeInCurveSlope Value="0" />
+											<FadeOutCurveSkew Value="0" />
+											<FadeOutCurveSlope Value="0" />
+											<IsDefaultFadeIn Value="false" />
+											<IsDefaultFadeOut Value="false" />
+										</Fades>
+										<PitchCoarse Value="0" />
+										<PitchFine Value="0" />
+										<SampleVolume Value="1" />
+										<WarpMarkers>
+											<WarpMarker Id="2" SecTime="1.3232426303854876" BeatTime="0" />
+											<WarpMarker Id="3" SecTime="2.6948072562358276" BeatTime="4" />
+											<WarpMarker Id="4" SecTime="4.0368253968253969" BeatTime="8" />
+											<WarpMarker Id="5" SecTime="5.3933786848072565" BeatTime="12" />
+											<WarpMarker Id="6" SecTime="6.7537868480725622" BeatTime="16" />
+											<WarpMarker Id="7" SecTime="8.1132879818594112" BeatTime="20" />
+											<WarpMarker Id="8" SecTime="9.4657596371882082" BeatTime="24" />
+											<WarpMarker Id="9" SecTime="10.82952380952381" BeatTime="28" />
+											<WarpMarker Id="10" SecTime="12.193015873015874" BeatTime="32" />
+											<WarpMarker Id="11" SecTime="13.520001411437988" BeatTime="36" />
+											<WarpMarker Id="12" SecTime="14.880001068115234" BeatTime="40" />
+											<WarpMarker Id="13" SecTime="16.240001678466797" BeatTime="44" />
+											<WarpMarker Id="14" SecTime="17.587437641723355" BeatTime="48" />
+											<WarpMarker Id="15" SecTime="18.944013605442176" BeatTime="52" />
+											<WarpMarker Id="16" SecTime="20.298707482993198" BeatTime="56" />
+											<WarpMarker Id="17" SecTime="21.663310657596373" BeatTime="60" />
+											<WarpMarker Id="18" SecTime="23.009886621315193" BeatTime="64" />
+											<WarpMarker Id="19" SecTime="24.367369614512473" BeatTime="68" />
+											<WarpMarker Id="20" SecTime="25.721156462585036" BeatTime="72" />
+											<WarpMarker Id="21" SecTime="27.072970521541951" BeatTime="76" />
+											<WarpMarker Id="22" SecTime="28.44000244140625" BeatTime="80" />
+											<WarpMarker Id="23" SecTime="29.800003051757812" BeatTime="84" />
+											<WarpMarker Id="24" SecTime="31.158480725623583" BeatTime="88" />
+											<WarpMarker Id="25" SecTime="32.490001678466797" BeatTime="92" />
+											<WarpMarker Id="26" SecTime="33.858934240362814" BeatTime="96" />
+											<WarpMarker Id="27" SecTime="35.210521541950115" BeatTime="100" />
+											<WarpMarker Id="28" SecTime="36.575034013605439" BeatTime="104" />
+											<WarpMarker Id="29" SecTime="37.936462585034015" BeatTime="108" />
+											<WarpMarker Id="30" SecTime="39.290000915527344" BeatTime="112" />
+											<WarpMarker Id="31" SecTime="40.630001068115234" BeatTime="116" />
+											<WarpMarker Id="32" SecTime="41.993106575963722" BeatTime="120" />
+											<WarpMarker Id="33" SecTime="43.356371882086165" BeatTime="124" />
+											<WarpMarker Id="34" SecTime="44.708390022675736" BeatTime="128" />
+											<WarpMarker Id="35" SecTime="46.067709750566891" BeatTime="132" />
+											<WarpMarker Id="36" SecTime="47.413514739229022" BeatTime="136" />
+											<WarpMarker Id="37" SecTime="48.772585034013609" BeatTime="140" />
+											<WarpMarker Id="38" SecTime="50.138571428571431" BeatTime="144" />
+											<WarpMarker Id="39" SecTime="51.484104308390023" BeatTime="148" />
+											<WarpMarker Id="40" SecTime="52.836621315192744" BeatTime="152" />
+											<WarpMarker Id="41" SecTime="54.198979591836739" BeatTime="156" />
+											<WarpMarker Id="42" SecTime="55.56312925170068" BeatTime="160" />
+											<WarpMarker Id="43" SecTime="56.933424036281181" BeatTime="164" />
+											<WarpMarker Id="44" SecTime="58.280002593994141" BeatTime="168" />
+											<WarpMarker Id="45" SecTime="59.622312925170071" BeatTime="172" />
+											<WarpMarker Id="46" SecTime="60.972539682539683" BeatTime="176" />
+											<WarpMarker Id="47" SecTime="62.338004535147391" BeatTime="180" />
+											<WarpMarker Id="48" SecTime="63.701678004535147" BeatTime="184" />
+											<WarpMarker Id="49" SecTime="65.066575963718819" BeatTime="188" />
+											<WarpMarker Id="50" SecTime="66.410003662109375" BeatTime="192" />
+											<WarpMarker Id="51" SecTime="67.760002136230469" BeatTime="196" />
+											<WarpMarker Id="52" SecTime="69.100006103515625" BeatTime="200" />
+											<WarpMarker Id="53" SecTime="70.469614512471651" BeatTime="204" />
+											<WarpMarker Id="54" SecTime="71.825918367346944" BeatTime="208" />
+											<WarpMarker Id="55" SecTime="73.193718820861676" BeatTime="212" />
+											<WarpMarker Id="56" SecTime="74.548866213151925" BeatTime="216" />
+											<WarpMarker Id="57" SecTime="75.887528344671196" BeatTime="220" />
+											<WarpMarker Id="58" SecTime="77.249047619047616" BeatTime="224" />
+											<WarpMarker Id="59" SecTime="78.599229024943313" BeatTime="228" />
+											<WarpMarker Id="60" SecTime="79.957687074829934" BeatTime="232" />
+											<WarpMarker Id="61" SecTime="81.32000732421875" BeatTime="236" />
+											<WarpMarker Id="62" SecTime="82.660003662109375" BeatTime="240" />
+											<WarpMarker Id="63" SecTime="84.021496598639459" BeatTime="244" />
+											<WarpMarker Id="64" SecTime="85.3800048828125" BeatTime="248" />
+											<WarpMarker Id="65" SecTime="86.746349206349208" BeatTime="252" />
+											<WarpMarker Id="66" SecTime="88.089092970521548" BeatTime="256" />
+											<WarpMarker Id="67" SecTime="89.440010070800781" BeatTime="260" />
+											<WarpMarker Id="68" SecTime="90.814308390022674" BeatTime="264" />
+											<WarpMarker Id="69" SecTime="92.155827664399098" BeatTime="268" />
+											<WarpMarker Id="70" SecTime="93.520004272460938" BeatTime="272" />
+											<WarpMarker Id="71" SecTime="94.8800048828125" BeatTime="276" />
+											<WarpMarker Id="72" SecTime="96.210006713867188" BeatTime="280" />
+											<WarpMarker Id="73" SecTime="97.500007629394531" BeatTime="284" />
+											<WarpMarker Id="74" SecTime="98.770748299319735" BeatTime="288" />
+											<WarpMarker Id="75" SecTime="100.17000579833984" BeatTime="292" />
+											<WarpMarker Id="76" SecTime="101.60000610351562" BeatTime="296" />
+											<WarpMarker Id="77" SecTime="102.99979591836735" BeatTime="300" />
+											<WarpMarker Id="78" SecTime="104.35360544217687" BeatTime="304" />
+											<WarpMarker Id="79" SecTime="105.71727891156463" BeatTime="308" />
+											<WarpMarker Id="80" SecTime="107.07000732421875" BeatTime="312" />
+											<WarpMarker Id="81" SecTime="108.42866213151927" BeatTime="316" />
+											<WarpMarker Id="82" SecTime="109.78240362811792" BeatTime="320" />
+											<WarpMarker Id="83" SecTime="111.15068027210884" BeatTime="324" />
+											<WarpMarker Id="84" SecTime="112.50643990929706" BeatTime="328" />
+											<WarpMarker Id="85" SecTime="113.85219954648527" BeatTime="332" />
+											<WarpMarker Id="86" SecTime="115.20589569160998" BeatTime="336" />
+											<WarpMarker Id="87" SecTime="116.56197278911564" BeatTime="340" />
+											<WarpMarker Id="88" SecTime="117.9350566893424" BeatTime="344" />
+											<WarpMarker Id="89" SecTime="119.28000640869141" BeatTime="348" />
+											<WarpMarker Id="90" SecTime="120.64000701904297" BeatTime="352" />
+											<WarpMarker Id="91" SecTime="122.00000762939453" BeatTime="356" />
+											<WarpMarker Id="92" SecTime="123.35802721088436" BeatTime="360" />
+											<WarpMarker Id="93" SecTime="124.69290249433107" BeatTime="364" />
+											<WarpMarker Id="94" SecTime="126.0584126984127" BeatTime="368" />
+											<WarpMarker Id="95" SecTime="127.40777777777778" BeatTime="372" />
+											<WarpMarker Id="96" SecTime="128.78777777777779" BeatTime="376" />
+											<WarpMarker Id="97" SecTime="130.13609977324262" BeatTime="380" />
+											<WarpMarker Id="98" SecTime="131.47001647949219" BeatTime="384" />
+											<WarpMarker Id="99" SecTime="132.83721088435374" BeatTime="388" />
+											<WarpMarker Id="100" SecTime="134.19616780045351" BeatTime="392" />
+											<WarpMarker Id="101" SecTime="135.54399092970522" BeatTime="396" />
+											<WarpMarker Id="102" SecTime="136.90539682539682" BeatTime="400" />
+											<WarpMarker Id="103" SecTime="138.26002267573696" BeatTime="404" />
+											<WarpMarker Id="104" SecTime="139.61859410430839" BeatTime="408" />
+											<WarpMarker Id="105" SecTime="140.97485260770975" BeatTime="412" />
+											<WarpMarker Id="106" SecTime="142.32657596371882" BeatTime="416" />
+											<WarpMarker Id="107" SecTime="143.70356009070295" BeatTime="420" />
+											<WarpMarker Id="108" SecTime="145.03145124716553" BeatTime="424" />
+											<WarpMarker Id="109" SecTime="146.38768707482993" BeatTime="428" />
+											<WarpMarker Id="110" SecTime="147.75834467120183" BeatTime="432" />
+											<WarpMarker Id="111" SecTime="149.12001037597656" BeatTime="436" />
+											<WarpMarker Id="112" SecTime="150.48001098632812" BeatTime="440" />
+											<WarpMarker Id="113" SecTime="151.80001831054688" BeatTime="444" />
+											<WarpMarker Id="114" SecTime="153.16975056689341" BeatTime="448" />
+											<WarpMarker Id="115" SecTime="154.53297052154196" BeatTime="452" />
+											<WarpMarker Id="116" SecTime="155.89213151927439" BeatTime="456" />
+											<WarpMarker Id="117" SecTime="157.248231292517" BeatTime="460" />
+											<WarpMarker Id="118" SecTime="158.61510204081634" BeatTime="464" />
+											<WarpMarker Id="119" SecTime="159.94972789115647" BeatTime="468" />
+											<WarpMarker Id="120" SecTime="161.31566893424036" BeatTime="472" />
+											<WarpMarker Id="121" SecTime="162.68401360544217" BeatTime="476" />
+											<WarpMarker Id="122" SecTime="164.02557823129251" BeatTime="480" />
+											<WarpMarker Id="123" SecTime="165.36001586914062" BeatTime="484" />
+											<WarpMarker Id="124" SecTime="166.6400146484375" BeatTime="488" />
+											<WarpMarker Id="125" SecTime="167.90936507936507" BeatTime="492" />
+											<WarpMarker Id="126" SecTime="169.29000854492188" BeatTime="496" />
+											<WarpMarker Id="127" SecTime="170.65000915527344" BeatTime="500" />
+											<WarpMarker Id="128" SecTime="170.66063416004181" BeatTime="500.03125" />
+										</WarpMarkers>
+										<SavedWarpMarkersForStretched />
+										<MarkersGenerated Value="true" />
+										<IsSongTempoMaster Value="false" />
+									</AudioClip>
+								</Events>
+								<AutomationTransformViewState>
+									<IsTransformPending Value="false" />
+									<TimeAndValueTransforms />
+								</AutomationTransformViewState>
+							</ArrangerAutomation>
+						</Sample>
+						<VolumeModulationTarget Id="8642">
+							<LockEnvelope Value="0" />
+						</VolumeModulationTarget>
+						<TranspositionModulationTarget Id="8643">
+							<LockEnvelope Value="0" />
+						</TranspositionModulationTarget>
+						<GrainSizeModulationTarget Id="8644">
+							<LockEnvelope Value="0" />
+						</GrainSizeModulationTarget>
+						<FluxModulationTarget Id="8645">
+							<LockEnvelope Value="0" />
+						</FluxModulationTarget>
+						<SampleOffsetModulationTarget Id="8646">
+							<LockEnvelope Value="0" />
+						</SampleOffsetModulationTarget>
+						<PitchViewScrollPosition Value="-1073741824" />
+						<SampleOffsetModulationScrollPosition Value="-1073741824" />
+						<Recorder>
+							<IsArmed Value="false" />
+							<TakeCounter Value="1" />
+						</Recorder>
+					</MainSequencer>
+					<FreezeSequencer>
+						<LomId Value="0" />
+						<LomIdView Value="0" />
+						<IsExpanded Value="true" />
+						<On>
+							<LomId Value="0" />
+							<Manual Value="true" />
+							<AutomationTarget Id="8647">
+								<LockEnvelope Value="0" />
+							</AutomationTarget>
+							<MidiCCOnOffThresholds>
+								<Min Value="64" />
+								<Max Value="127" />
+							</MidiCCOnOffThresholds>
+						</On>
+						<ModulationSourceCount Value="0" />
+						<ParametersListWrapper LomId="0" />
+						<Pointee Id="19720" />
+						<LastSelectedTimeableIndex Value="0" />
+						<LastSelectedClipEnvelopeIndex Value="0" />
+						<LastPresetRef>
+							<Value />
+						</LastPresetRef>
+						<LockedScripts />
+						<IsFolded Value="false" />
+						<ShouldShowPresetName Value="false" />
+						<UserName Value="" />
+						<Annotation Value="" />
+						<SourceContext>
+							<Value />
+						</SourceContext>
+						<ClipSlotList>
+							<ClipSlot Id="0">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+								<NeedRefreeze Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="1">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+								<NeedRefreeze Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="2">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+								<NeedRefreeze Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="3">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+								<NeedRefreeze Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="4">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+								<NeedRefreeze Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="5">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+								<NeedRefreeze Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="6">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+								<NeedRefreeze Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="7">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+								<NeedRefreeze Value="true" />
+							</ClipSlot>
+						</ClipSlotList>
+						<MonitoringEnum Value="1" />
+						<Sample>
+							<ArrangerAutomation>
+								<Events />
+								<AutomationTransformViewState>
+									<IsTransformPending Value="false" />
+									<TimeAndValueTransforms />
+								</AutomationTransformViewState>
+							</ArrangerAutomation>
+						</Sample>
+						<VolumeModulationTarget Id="8648">
+							<LockEnvelope Value="0" />
+						</VolumeModulationTarget>
+						<TranspositionModulationTarget Id="8649">
+							<LockEnvelope Value="0" />
+						</TranspositionModulationTarget>
+						<GrainSizeModulationTarget Id="8650">
+							<LockEnvelope Value="0" />
+						</GrainSizeModulationTarget>
+						<FluxModulationTarget Id="8651">
+							<LockEnvelope Value="0" />
+						</FluxModulationTarget>
+						<SampleOffsetModulationTarget Id="8652">
+							<LockEnvelope Value="0" />
+						</SampleOffsetModulationTarget>
+						<PitchViewScrollPosition Value="-1073741824" />
+						<SampleOffsetModulationScrollPosition Value="-1073741824" />
+						<Recorder>
+							<IsArmed Value="false" />
+							<TakeCounter Value="1" />
+						</Recorder>
+					</FreezeSequencer>
+					<DeviceChain>
+						<Devices />
+						<SignalModulations />
+					</DeviceChain>
+				</DeviceChain>
+			</AudioTrack>
+			<AudioTrack Id="14">
+				<LomId Value="0" />
+				<LomIdView Value="0" />
+				<IsContentSelectedInDocument Value="false" />
+				<PreferredContentViewMode Value="0" />
+				<TrackDelay>
+					<Value Value="0" />
+					<IsValueSampleBased Value="false" />
+				</TrackDelay>
+				<Name>
+					<EffectiveName Value="3-02 Fruitman" />
+					<UserName Value="" />
+					<Annotation Value="" />
+					<MemorizedFirstClipName Value="02 Fruitman" />
+				</Name>
+				<Color Value="17" />
+				<AutomationEnvelopes>
+					<Envelopes />
+				</AutomationEnvelopes>
+				<TrackGroupId Value="-1" />
+				<TrackUnfolded Value="true" />
+				<DevicesListWrapper LomId="0" />
+				<ClipSlotsListWrapper LomId="0" />
+				<ViewData Value="{}" />
+				<TakeLanes>
+					<TakeLanes />
+					<AreTakeLanesFolded Value="true" />
+				</TakeLanes>
+				<LinkedTrackGroupId Value="-1" />
+				<SavedPlayingSlot Value="-1" />
+				<SavedPlayingOffset Value="0" />
+				<Freeze Value="false" />
+				<VelocityDetail Value="0" />
+				<NeedArrangerRefreeze Value="true" />
+				<PostProcessFreezeClips Value="0" />
+				<DeviceChain>
+					<AutomationLanes>
+						<AutomationLanes>
+							<AutomationLane Id="0">
+								<SelectedDevice Value="0" />
+								<SelectedEnvelope Value="0" />
+								<IsContentSelectedInDocument Value="false" />
+								<LaneHeight Value="68" />
+							</AutomationLane>
+						</AutomationLanes>
+						<AreAdditionalAutomationLanesFolded Value="false" />
+					</AutomationLanes>
+					<ClipEnvelopeChooserViewState>
+						<SelectedDevice Value="0" />
+						<SelectedEnvelope Value="0" />
+						<PreferModulationVisible Value="false" />
+					</ClipEnvelopeChooserViewState>
+					<AudioInputRouting>
+						<Target Value="AudioIn/External/M1" />
+						<UpperDisplayString Value="Ext. In" />
+						<LowerDisplayString Value="2" />
+						<MpeSettings>
+							<ZoneType Value="0" />
+							<FirstNoteChannel Value="1" />
+							<LastNoteChannel Value="15" />
+						</MpeSettings>
+					</AudioInputRouting>
+					<MidiInputRouting>
+						<Target Value="MidiIn/External.All/-1" />
+						<UpperDisplayString Value="Ext: All Ins" />
+						<LowerDisplayString Value="" />
+						<MpeSettings>
+							<ZoneType Value="0" />
+							<FirstNoteChannel Value="1" />
+							<LastNoteChannel Value="15" />
+						</MpeSettings>
+					</MidiInputRouting>
+					<AudioOutputRouting>
+						<Target Value="AudioOut/Master" />
+						<UpperDisplayString Value="Master" />
+						<LowerDisplayString Value="" />
+						<MpeSettings>
+							<ZoneType Value="0" />
+							<FirstNoteChannel Value="1" />
+							<LastNoteChannel Value="15" />
+						</MpeSettings>
+					</AudioOutputRouting>
+					<MidiOutputRouting>
+						<Target Value="MidiOut/None" />
+						<UpperDisplayString Value="None" />
+						<LowerDisplayString Value="" />
+						<MpeSettings>
+							<ZoneType Value="0" />
+							<FirstNoteChannel Value="1" />
+							<LastNoteChannel Value="15" />
+						</MpeSettings>
+					</MidiOutputRouting>
+					<Mixer>
+						<LomId Value="0" />
+						<LomIdView Value="0" />
+						<IsExpanded Value="true" />
+						<On>
+							<LomId Value="0" />
+							<Manual Value="true" />
+							<AutomationTarget Id="16128">
+								<LockEnvelope Value="0" />
+							</AutomationTarget>
+							<MidiCCOnOffThresholds>
+								<Min Value="64" />
+								<Max Value="127" />
+							</MidiCCOnOffThresholds>
+						</On>
+						<ModulationSourceCount Value="0" />
+						<ParametersListWrapper LomId="0" />
+						<Pointee Id="19721" />
+						<LastSelectedTimeableIndex Value="2" />
+						<LastSelectedClipEnvelopeIndex Value="0" />
+						<LastPresetRef>
+							<Value />
+						</LastPresetRef>
+						<LockedScripts />
+						<IsFolded Value="false" />
+						<ShouldShowPresetName Value="false" />
+						<UserName Value="" />
+						<Annotation Value="" />
+						<SourceContext>
+							<Value />
+						</SourceContext>
+						<Sends>
+							<TrackSendHolder Id="0">
+								<Send>
+									<LomId Value="0" />
+									<Manual Value="0.0003162277571" />
+									<MidiControllerRange>
+										<Min Value="0.0003162277571" />
+										<Max Value="1" />
+									</MidiControllerRange>
+									<AutomationTarget Id="16129">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="16130">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</Send>
+								<Active Value="true" />
+							</TrackSendHolder>
+							<TrackSendHolder Id="1">
+								<Send>
+									<LomId Value="0" />
+									<Manual Value="0.0003162277571" />
+									<MidiControllerRange>
+										<Min Value="0.0003162277571" />
+										<Max Value="1" />
+									</MidiControllerRange>
+									<AutomationTarget Id="16131">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="16132">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</Send>
+								<Active Value="true" />
+							</TrackSendHolder>
+						</Sends>
+						<Speaker>
+							<LomId Value="0" />
+							<Manual Value="true" />
+							<AutomationTarget Id="16133">
+								<LockEnvelope Value="0" />
+							</AutomationTarget>
+							<MidiCCOnOffThresholds>
+								<Min Value="64" />
+								<Max Value="127" />
+							</MidiCCOnOffThresholds>
+						</Speaker>
+						<SoloSink Value="false" />
+						<PanMode Value="0" />
+						<Pan>
+							<LomId Value="0" />
+							<Manual Value="0" />
+							<MidiControllerRange>
+								<Min Value="-1" />
+								<Max Value="1" />
+							</MidiControllerRange>
+							<AutomationTarget Id="16134">
+								<LockEnvelope Value="0" />
+							</AutomationTarget>
+							<ModulationTarget Id="16135">
+								<LockEnvelope Value="0" />
+							</ModulationTarget>
+						</Pan>
+						<SplitStereoPanL>
+							<LomId Value="0" />
+							<Manual Value="-1" />
+							<MidiControllerRange>
+								<Min Value="-1" />
+								<Max Value="1" />
+							</MidiControllerRange>
+							<AutomationTarget Id="16163">
+								<LockEnvelope Value="0" />
+							</AutomationTarget>
+							<ModulationTarget Id="16164">
+								<LockEnvelope Value="0" />
+							</ModulationTarget>
+						</SplitStereoPanL>
+						<SplitStereoPanR>
+							<LomId Value="0" />
+							<Manual Value="1" />
+							<MidiControllerRange>
+								<Min Value="-1" />
+								<Max Value="1" />
+							</MidiControllerRange>
+							<AutomationTarget Id="16165">
+								<LockEnvelope Value="0" />
+							</AutomationTarget>
+							<ModulationTarget Id="16166">
+								<LockEnvelope Value="0" />
+							</ModulationTarget>
+						</SplitStereoPanR>
+						<Volume>
+							<LomId Value="0" />
+							<Manual Value="1" />
+							<MidiControllerRange>
+								<Min Value="0.0003162277571" />
+								<Max Value="1.99526238" />
+							</MidiControllerRange>
+							<AutomationTarget Id="16136">
+								<LockEnvelope Value="0" />
+							</AutomationTarget>
+							<ModulationTarget Id="16137">
+								<LockEnvelope Value="0" />
+							</ModulationTarget>
+						</Volume>
+						<ViewStateSesstionTrackWidth Value="93" />
+						<CrossFadeState>
+							<LomId Value="0" />
+							<Manual Value="1" />
+							<AutomationTarget Id="16138">
+								<LockEnvelope Value="0" />
+							</AutomationTarget>
+						</CrossFadeState>
+						<SendsListWrapper LomId="0" />
+					</Mixer>
+					<MainSequencer>
+						<LomId Value="0" />
+						<LomIdView Value="0" />
+						<IsExpanded Value="true" />
+						<On>
+							<LomId Value="0" />
+							<Manual Value="true" />
+							<AutomationTarget Id="16139">
+								<LockEnvelope Value="0" />
+							</AutomationTarget>
+							<MidiCCOnOffThresholds>
+								<Min Value="64" />
+								<Max Value="127" />
+							</MidiCCOnOffThresholds>
+						</On>
+						<ModulationSourceCount Value="0" />
+						<ParametersListWrapper LomId="0" />
+						<Pointee Id="19722" />
+						<LastSelectedTimeableIndex Value="0" />
+						<LastSelectedClipEnvelopeIndex Value="0" />
+						<LastPresetRef>
+							<Value />
+						</LastPresetRef>
+						<LockedScripts />
+						<IsFolded Value="false" />
+						<ShouldShowPresetName Value="false" />
+						<UserName Value="" />
+						<Annotation Value="" />
+						<SourceContext>
+							<Value />
+						</SourceContext>
+						<ClipSlotList>
+							<ClipSlot Id="0">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+								<NeedRefreeze Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="1">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+								<NeedRefreeze Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="2">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+								<NeedRefreeze Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="3">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+								<NeedRefreeze Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="4">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+								<NeedRefreeze Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="5">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+								<NeedRefreeze Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="6">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+								<NeedRefreeze Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="7">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+								<NeedRefreeze Value="true" />
+							</ClipSlot>
+						</ClipSlotList>
+						<MonitoringEnum Value="2" />
+						<Sample>
+							<ArrangerAutomation>
+								<Events>
+									<AudioClip Id="0" Time="960">
+										<LomId Value="0" />
+										<LomIdView Value="0" />
+										<CurrentStart Value="960" />
+										<CurrentEnd Value="1485.7147076881452" />
+										<Loop>
+											<LoopStart Value="0" />
+											<LoopEnd Value="525.71470768814515" />
+											<StartRelative Value="0" />
+											<LoopOn Value="false" />
+											<OutMarker Value="525.71470768814515" />
+											<HiddenLoopStart Value="0" />
+											<HiddenLoopEnd Value="4" />
+										</Loop>
+										<Name Value="02 Fruitman" />
+										<Annotation Value="" />
+										<Color Value="17" />
+										<LaunchMode Value="0" />
+										<LaunchQuantisation Value="0" />
+										<TimeSignature>
+											<TimeSignatures>
+												<RemoteableTimeSignature Id="0">
+													<Numerator Value="4" />
+													<Denominator Value="4" />
+													<Time Value="0" />
+												</RemoteableTimeSignature>
+											</TimeSignatures>
+										</TimeSignature>
+										<Envelopes>
+											<Envelopes />
+										</Envelopes>
+										<ScrollerTimePreserver>
+											<LeftTime Value="-2.4105948447977426" />
+											<RightTime Value="523.30411284334741" />
+										</ScrollerTimePreserver>
+										<TimeSelection>
+											<AnchorTime Value="0" />
+											<OtherTime Value="0" />
+										</TimeSelection>
+										<Legato Value="false" />
+										<Ram Value="false" />
+										<GrooveSettings>
+											<GrooveId Value="-1" />
+										</GrooveSettings>
+										<Disabled Value="false" />
+										<VelocityAmount Value="0" />
+										<FollowAction>
+											<FollowTime Value="4" />
+											<IsLinked Value="true" />
+											<LoopIterations Value="1" />
+											<FollowActionA Value="4" />
+											<FollowActionB Value="0" />
+											<FollowChanceA Value="100" />
+											<FollowChanceB Value="0" />
+											<JumpIndexA Value="1" />
+											<JumpIndexB Value="1" />
+											<FollowActionEnabled Value="false" />
+										</FollowAction>
+										<Grid>
+											<FixedNumerator Value="1" />
+											<FixedDenominator Value="16" />
+											<GridIntervalPixel Value="20" />
+											<Ntoles Value="2" />
+											<SnapToGrid Value="true" />
+											<Fixed Value="false" />
+										</Grid>
+										<FreezeStart Value="0" />
+										<FreezeEnd Value="0" />
+										<IsWarped Value="true" />
+										<TakeId Value="1" />
+										<SampleRef>
+											<FileRef>
+												<RelativePathType Value="1" />
+												<RelativePath Value="../../../Soulseek Downloads/complete/Voltairine de Cleyre/Light Of Worlds/02 Fruitman.mp3" />
+												<Path Value="C:/Users/martin/Documents/Soulseek Downloads/complete/Voltairine de Cleyre/Light Of Worlds/02 Fruitman.mp3" />
+												<Type Value="1" />
+												<LivePackName Value="" />
+												<LivePackId Value="" />
+												<OriginalFileSize Value="13136956" />
+												<OriginalCrc Value="12369" />
+											</FileRef>
+											<LastModDate Value="1714283352" />
+											<SourceContext>
+												<SourceContext Id="0">
+													<OriginalFileRef>
+														<FileRef Id="0">
+															<RelativePathType Value="1" />
+															<RelativePath Value="../../../Soulseek Downloads/complete/Voltairine de Cleyre/Light Of Worlds/02 Fruitman.mp3" />
+															<Path Value="C:/Users/martin/Documents/Soulseek Downloads/complete/Voltairine de Cleyre/Light Of Worlds/02 Fruitman.mp3" />
+															<Type Value="1" />
+															<LivePackName Value="" />
+															<LivePackId Value="" />
+															<OriginalFileSize Value="13136956" />
+															<OriginalCrc Value="12369" />
+														</FileRef>
+													</OriginalFileRef>
+													<BrowserContentPath Value="userfolder:C:%5CUsers%5Cmartin%5CDocuments%5CSoulseek%20Downloads%5Ccomplete#Voltairine%20de%20Cleyre:Light%20Of%20Worlds:02%20Fruitman.mp3" />
+												</SourceContext>
+											</SourceContext>
+											<SampleUsageHint Value="0" />
+											<DefaultDuration Value="14269932" />
+											<DefaultSampleRate Value="44100" />
+										</SampleRef>
+										<Onsets>
+											<UserOnsets />
+											<HasUserOnsets Value="false" />
+										</Onsets>
+										<WarpMode Value="4" />
+										<GranularityTones Value="30" />
+										<GranularityTexture Value="65" />
+										<FluctuationTexture Value="25" />
+										<TransientResolution Value="6" />
+										<TransientLoopMode Value="2" />
+										<TransientEnvelope Value="100" />
+										<ComplexProFormants Value="100" />
+										<ComplexProEnvelope Value="128" />
+										<Sync Value="true" />
+										<HiQ Value="true" />
+										<Fade Value="false" />
+										<Fades>
+											<FadeInLength Value="0" />
+											<FadeOutLength Value="0" />
+											<ClipFadesAreInitialized Value="true" />
+											<CrossfadeInState Value="0" />
+											<FadeInCurveSkew Value="0" />
+											<FadeInCurveSlope Value="0" />
+											<FadeOutCurveSkew Value="0" />
+											<FadeOutCurveSlope Value="0" />
+											<IsDefaultFadeIn Value="false" />
+											<IsDefaultFadeOut Value="false" />
+										</Fades>
+										<PitchCoarse Value="0" />
+										<PitchFine Value="0" />
+										<SampleVolume Value="1" />
+										<WarpMarkers>
+											<WarpMarker Id="2" SecTime="1.5755782312925171" BeatTime="0" />
+											<WarpMarker Id="3" SecTime="4.1900005340576172" BeatTime="4" />
+											<WarpMarker Id="4" SecTime="6.7400002479553223" BeatTime="8" />
+											<WarpMarker Id="5" SecTime="9.2660544217687075" BeatTime="12" />
+											<WarpMarker Id="6" SecTime="11.843741496598639" BeatTime="16" />
+											<WarpMarker Id="7" SecTime="14.402630385487528" BeatTime="20" />
+											<WarpMarker Id="8" SecTime="16.89000129699707" BeatTime="24" />
+											<WarpMarker Id="9" SecTime="19.422811791383221" BeatTime="28" />
+											<WarpMarker Id="10" SecTime="21.989410430839001" BeatTime="32" />
+											<WarpMarker Id="11" SecTime="24.535374149659866" BeatTime="36" />
+											<WarpMarker Id="12" SecTime="27.074603174603176" BeatTime="40" />
+											<WarpMarker Id="13" SecTime="29.65689342403628" BeatTime="44" />
+											<WarpMarker Id="14" SecTime="32.175283446712015" BeatTime="48" />
+											<WarpMarker Id="15" SecTime="34.717573696145124" BeatTime="52" />
+											<WarpMarker Id="16" SecTime="37.210521541950115" BeatTime="56" />
+											<WarpMarker Id="17" SecTime="39.745170068027214" BeatTime="60" />
+											<WarpMarker Id="18" SecTime="42.282222222222224" BeatTime="64" />
+											<WarpMarker Id="19" SecTime="44.802743764172334" BeatTime="68" />
+											<WarpMarker Id="20" SecTime="47.315124716553285" BeatTime="72" />
+											<WarpMarker Id="21" SecTime="49.807165532879822" BeatTime="76" />
+											<WarpMarker Id="22" SecTime="52.310005187988281" BeatTime="80" />
+											<WarpMarker Id="23" SecTime="54.792925170068031" BeatTime="84" />
+											<WarpMarker Id="24" SecTime="57.281133786848073" BeatTime="88" />
+											<WarpMarker Id="25" SecTime="59.787845804988663" BeatTime="92" />
+											<WarpMarker Id="26" SecTime="62.272517006802723" BeatTime="96" />
+											<WarpMarker Id="27" SecTime="64.787460317460315" BeatTime="100" />
+											<WarpMarker Id="28" SecTime="67.25671201814059" BeatTime="104" />
+											<WarpMarker Id="29" SecTime="69.743877551020404" BeatTime="108" />
+											<WarpMarker Id="30" SecTime="72.181496598639455" BeatTime="112" />
+											<WarpMarker Id="31" SecTime="74.624535147392294" BeatTime="116" />
+											<WarpMarker Id="32" SecTime="77.06487528344671" BeatTime="120" />
+											<WarpMarker Id="33" SecTime="79.514512471655323" BeatTime="124" />
+											<WarpMarker Id="34" SecTime="81.970008850097656" BeatTime="128" />
+											<WarpMarker Id="35" SecTime="84.41260770975056" BeatTime="132" />
+											<WarpMarker Id="36" SecTime="86.918253968253964" BeatTime="136" />
+											<WarpMarker Id="37" SecTime="89.388231292517005" BeatTime="140" />
+											<WarpMarker Id="38" SecTime="91.871428571428567" BeatTime="144" />
+											<WarpMarker Id="39" SecTime="94.331859410430837" BeatTime="148" />
+											<WarpMarker Id="40" SecTime="96.765873015873012" BeatTime="152" />
+											<WarpMarker Id="41" SecTime="99.233287981859419" BeatTime="156" />
+											<WarpMarker Id="42" SecTime="101.70786848072562" BeatTime="160" />
+											<WarpMarker Id="43" SecTime="104.16000366210938" BeatTime="164" />
+											<WarpMarker Id="44" SecTime="106.57986394557824" BeatTime="168" />
+											<WarpMarker Id="45" SecTime="109.06489795918368" BeatTime="172" />
+											<WarpMarker Id="46" SecTime="111.56031746031746" BeatTime="176" />
+											<WarpMarker Id="47" SecTime="114.01904761904763" BeatTime="180" />
+											<WarpMarker Id="48" SecTime="116.47909297052155" BeatTime="184" />
+											<WarpMarker Id="49" SecTime="118.94804988662132" BeatTime="188" />
+											<WarpMarker Id="50" SecTime="121.36671201814059" BeatTime="192" />
+											<WarpMarker Id="51" SecTime="123.81233560090703" BeatTime="196" />
+											<WarpMarker Id="52" SecTime="126.25702947845805" BeatTime="200" />
+											<WarpMarker Id="53" SecTime="128.70650793650793" BeatTime="204" />
+											<WarpMarker Id="54" SecTime="131.1300048828125" BeatTime="208" />
+											<WarpMarker Id="55" SecTime="133.57639455782314" BeatTime="212" />
+											<WarpMarker Id="56" SecTime="136.01566893424035" BeatTime="216" />
+											<WarpMarker Id="57" SecTime="138.46873015873015" BeatTime="220" />
+											<WarpMarker Id="58" SecTime="140.89204081632653" BeatTime="224" />
+											<WarpMarker Id="59" SecTime="143.30702947845805" BeatTime="228" />
+											<WarpMarker Id="60" SecTime="145.66807256235828" BeatTime="232" />
+											<WarpMarker Id="61" SecTime="148.08340136054423" BeatTime="236" />
+											<WarpMarker Id="62" SecTime="150.45587301587301" BeatTime="240" />
+											<WarpMarker Id="63" SecTime="152.87231292517006" BeatTime="244" />
+											<WarpMarker Id="64" SecTime="155.29399092970522" BeatTime="248" />
+											<WarpMarker Id="65" SecTime="157.75637188208617" BeatTime="252" />
+											<WarpMarker Id="66" SecTime="160.17034013605442" BeatTime="256" />
+											<WarpMarker Id="67" SecTime="162.56439909297052" BeatTime="260" />
+											<WarpMarker Id="68" SecTime="164.94301587301587" BeatTime="264" />
+											<WarpMarker Id="69" SecTime="167.36000000000001" BeatTime="268" />
+											<WarpMarker Id="70" SecTime="169.75888888888889" BeatTime="272" />
+											<WarpMarker Id="71" SecTime="172.21659863945578" BeatTime="276" />
+											<WarpMarker Id="72" SecTime="174.57936507936509" BeatTime="280" />
+											<WarpMarker Id="73" SecTime="177.0042403628118" BeatTime="284" />
+											<WarpMarker Id="74" SecTime="179.42356009070295" BeatTime="288" />
+											<WarpMarker Id="75" SecTime="181.827052154195" BeatTime="292" />
+											<WarpMarker Id="76" SecTime="184.23090702947846" BeatTime="296" />
+											<WarpMarker Id="77" SecTime="186.65292517006802" BeatTime="300" />
+											<WarpMarker Id="78" SecTime="189.06303854875284" BeatTime="304" />
+											<WarpMarker Id="79" SecTime="191.46857142857144" BeatTime="308" />
+											<WarpMarker Id="80" SecTime="193.90263038548753" BeatTime="312" />
+											<WarpMarker Id="81" SecTime="196.32072562358277" BeatTime="316" />
+											<WarpMarker Id="82" SecTime="198.74045351473924" BeatTime="320" />
+											<WarpMarker Id="83" SecTime="201.14181405895692" BeatTime="324" />
+											<WarpMarker Id="84" SecTime="203.57689342403629" BeatTime="328" />
+											<WarpMarker Id="85" SecTime="205.9775963718821" BeatTime="332" />
+											<WarpMarker Id="86" SecTime="208.34943310657596" BeatTime="336" />
+											<WarpMarker Id="87" SecTime="210.74798185941043" BeatTime="340" />
+											<WarpMarker Id="88" SecTime="213.11038548752836" BeatTime="344" />
+											<WarpMarker Id="89" SecTime="215.45224489795919" BeatTime="348" />
+											<WarpMarker Id="90" SecTime="217.8214739229025" BeatTime="352" />
+											<WarpMarker Id="91" SecTime="220.21206349206349" BeatTime="356" />
+											<WarpMarker Id="92" SecTime="222.62963718820862" BeatTime="360" />
+											<WarpMarker Id="93" SecTime="225.03650793650795" BeatTime="364" />
+											<WarpMarker Id="94" SecTime="227.47984126984127" BeatTime="368" />
+											<WarpMarker Id="95" SecTime="229.85995464852607" BeatTime="372" />
+											<WarpMarker Id="96" SecTime="232.28845804988663" BeatTime="376" />
+											<WarpMarker Id="97" SecTime="234.69705215419501" BeatTime="380" />
+											<WarpMarker Id="98" SecTime="237.12158730158731" BeatTime="384" />
+											<WarpMarker Id="99" SecTime="239.53369614512471" BeatTime="388" />
+											<WarpMarker Id="100" SecTime="241.95512471655329" BeatTime="392" />
+											<WarpMarker Id="101" SecTime="244.3427664399093" BeatTime="396" />
+											<WarpMarker Id="102" SecTime="246.72001647949219" BeatTime="400" />
+											<WarpMarker Id="103" SecTime="249.1463038548753" BeatTime="404" />
+											<WarpMarker Id="104" SecTime="251.54643990929705" BeatTime="408" />
+											<WarpMarker Id="105" SecTime="253.96002197265625" BeatTime="412" />
+											<WarpMarker Id="106" SecTime="256.40074829931973" BeatTime="416" />
+											<WarpMarker Id="107" SecTime="258.83310657596371" BeatTime="420" />
+											<WarpMarker Id="108" SecTime="261.26149659863944" BeatTime="424" />
+											<WarpMarker Id="109" SecTime="263.70995464852609" BeatTime="428" />
+											<WarpMarker Id="110" SecTime="266.15843537414963" BeatTime="432" />
+											<WarpMarker Id="111" SecTime="268.60000610351562" BeatTime="436" />
+											<WarpMarker Id="112" SecTime="271.04492063492063" BeatTime="440" />
+											<WarpMarker Id="113" SecTime="273.48034013605439" BeatTime="444" />
+											<WarpMarker Id="114" SecTime="275.91061224489795" BeatTime="448" />
+											<WarpMarker Id="115" SecTime="278.34269841269844" BeatTime="452" />
+											<WarpMarker Id="116" SecTime="280.78247165532878" BeatTime="456" />
+											<WarpMarker Id="117" SecTime="283.2318367346939" BeatTime="460" />
+											<WarpMarker Id="118" SecTime="285.6381859410431" BeatTime="464" />
+											<WarpMarker Id="119" SecTime="288.09256235827667" BeatTime="468" />
+											<WarpMarker Id="120" SecTime="290.51131519274378" BeatTime="472" />
+											<WarpMarker Id="121" SecTime="292.94117913832201" BeatTime="476" />
+											<WarpMarker Id="122" SecTime="295.40197278911563" BeatTime="480" />
+											<WarpMarker Id="123" SecTime="297.84367346938774" BeatTime="484" />
+											<WarpMarker Id="124" SecTime="300.32156462585033" BeatTime="488" />
+											<WarpMarker Id="125" SecTime="302.79632653061225" BeatTime="492" />
+											<WarpMarker Id="126" SecTime="305.22501133786847" BeatTime="496" />
+											<WarpMarker Id="127" SecTime="307.66764172335598" BeatTime="500" />
+											<WarpMarker Id="128" SecTime="310.11891156462588" BeatTime="504" />
+											<WarpMarker Id="129" SecTime="312.56002807617188" BeatTime="508" />
+											<WarpMarker Id="130" SecTime="315.00003051757812" BeatTime="512" />
+											<WarpMarker Id="131" SecTime="317.44003295898438" BeatTime="516" />
+											<WarpMarker Id="132" SecTime="319.96002197265625" BeatTime="520" />
+											<WarpMarker Id="133" SecTime="322.48001098632812" BeatTime="524" />
+											<WarpMarker Id="134" SecTime="322.49969840049744" BeatTime="524.03125" />
+										</WarpMarkers>
+										<SavedWarpMarkersForStretched />
+										<MarkersGenerated Value="true" />
+										<IsSongTempoMaster Value="false" />
+									</AudioClip>
+								</Events>
+								<AutomationTransformViewState>
+									<IsTransformPending Value="false" />
+									<TimeAndValueTransforms />
+								</AutomationTransformViewState>
+							</ArrangerAutomation>
+						</Sample>
+						<VolumeModulationTarget Id="16140">
+							<LockEnvelope Value="0" />
+						</VolumeModulationTarget>
+						<TranspositionModulationTarget Id="16141">
+							<LockEnvelope Value="0" />
+						</TranspositionModulationTarget>
+						<GrainSizeModulationTarget Id="16142">
+							<LockEnvelope Value="0" />
+						</GrainSizeModulationTarget>
+						<FluxModulationTarget Id="16143">
+							<LockEnvelope Value="0" />
+						</FluxModulationTarget>
+						<SampleOffsetModulationTarget Id="16144">
+							<LockEnvelope Value="0" />
+						</SampleOffsetModulationTarget>
+						<PitchViewScrollPosition Value="-1073741824" />
+						<SampleOffsetModulationScrollPosition Value="-1073741824" />
+						<Recorder>
+							<IsArmed Value="false" />
+							<TakeCounter Value="1" />
+						</Recorder>
+					</MainSequencer>
+					<FreezeSequencer>
+						<LomId Value="0" />
+						<LomIdView Value="0" />
+						<IsExpanded Value="true" />
+						<On>
+							<LomId Value="0" />
+							<Manual Value="true" />
+							<AutomationTarget Id="16145">
+								<LockEnvelope Value="0" />
+							</AutomationTarget>
+							<MidiCCOnOffThresholds>
+								<Min Value="64" />
+								<Max Value="127" />
+							</MidiCCOnOffThresholds>
+						</On>
+						<ModulationSourceCount Value="0" />
+						<ParametersListWrapper LomId="0" />
+						<Pointee Id="19723" />
+						<LastSelectedTimeableIndex Value="0" />
+						<LastSelectedClipEnvelopeIndex Value="0" />
+						<LastPresetRef>
+							<Value />
+						</LastPresetRef>
+						<LockedScripts />
+						<IsFolded Value="false" />
+						<ShouldShowPresetName Value="false" />
+						<UserName Value="" />
+						<Annotation Value="" />
+						<SourceContext>
+							<Value />
+						</SourceContext>
+						<ClipSlotList>
+							<ClipSlot Id="0">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+								<NeedRefreeze Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="1">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+								<NeedRefreeze Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="2">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+								<NeedRefreeze Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="3">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+								<NeedRefreeze Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="4">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+								<NeedRefreeze Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="5">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+								<NeedRefreeze Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="6">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+								<NeedRefreeze Value="true" />
+							</ClipSlot>
+							<ClipSlot Id="7">
+								<LomId Value="0" />
+								<ClipSlot>
+									<Value />
+								</ClipSlot>
+								<HasStop Value="true" />
+								<NeedRefreeze Value="true" />
+							</ClipSlot>
+						</ClipSlotList>
+						<MonitoringEnum Value="1" />
+						<Sample>
+							<ArrangerAutomation>
+								<Events />
+								<AutomationTransformViewState>
+									<IsTransformPending Value="false" />
+									<TimeAndValueTransforms />
+								</AutomationTransformViewState>
+							</ArrangerAutomation>
+						</Sample>
+						<VolumeModulationTarget Id="16146">
+							<LockEnvelope Value="0" />
+						</VolumeModulationTarget>
+						<TranspositionModulationTarget Id="16147">
+							<LockEnvelope Value="0" />
+						</TranspositionModulationTarget>
+						<GrainSizeModulationTarget Id="16148">
+							<LockEnvelope Value="0" />
+						</GrainSizeModulationTarget>
+						<FluxModulationTarget Id="16149">
+							<LockEnvelope Value="0" />
+						</FluxModulationTarget>
+						<SampleOffsetModulationTarget Id="16150">
+							<LockEnvelope Value="0" />
+						</SampleOffsetModulationTarget>
+						<PitchViewScrollPosition Value="-1073741824" />
+						<SampleOffsetModulationScrollPosition Value="-1073741824" />
+						<Recorder>
+							<IsArmed Value="false" />
+							<TakeCounter Value="1" />
+						</Recorder>
+					</FreezeSequencer>
+					<DeviceChain>
+						<Devices />
+						<SignalModulations />
+					</DeviceChain>
+				</DeviceChain>
+			</AudioTrack>
+			<ReturnTrack Id="2">
+				<LomId Value="0" />
+				<LomIdView Value="0" />
+				<IsContentSelectedInDocument Value="false" />
+				<PreferredContentViewMode Value="0" />
+				<TrackDelay>
+					<Value Value="0" />
+					<IsValueSampleBased Value="false" />
+				</TrackDelay>
+				<Name>
+					<EffectiveName Value="A-Reverb" />
+					<UserName Value="" />
+					<Annotation Value="" />
+					<MemorizedFirstClipName Value="" />
+				</Name>
+				<Color Value="19" />
+				<AutomationEnvelopes>
+					<Envelopes />
+				</AutomationEnvelopes>
+				<TrackGroupId Value="-1" />
+				<TrackUnfolded Value="false" />
+				<DevicesListWrapper LomId="0" />
+				<ClipSlotsListWrapper LomId="0" />
+				<ViewData Value="{}" />
+				<TakeLanes>
+					<TakeLanes />
+					<AreTakeLanesFolded Value="true" />
+				</TakeLanes>
+				<LinkedTrackGroupId Value="-1" />
+				<DeviceChain>
+					<AutomationLanes>
+						<AutomationLanes>
+							<AutomationLane Id="0">
+								<SelectedDevice Value="2" />
+								<SelectedEnvelope Value="2" />
+								<IsContentSelectedInDocument Value="false" />
+								<LaneHeight Value="85" />
+							</AutomationLane>
+						</AutomationLanes>
+						<AreAdditionalAutomationLanesFolded Value="false" />
+					</AutomationLanes>
+					<ClipEnvelopeChooserViewState>
+						<SelectedDevice Value="0" />
+						<SelectedEnvelope Value="0" />
+						<PreferModulationVisible Value="false" />
+					</ClipEnvelopeChooserViewState>
+					<AudioInputRouting>
+						<Target Value="AudioIn/External/S0" />
+						<UpperDisplayString Value="Ext. In" />
+						<LowerDisplayString Value="1/2" />
+						<MpeSettings>
+							<ZoneType Value="0" />
+							<FirstNoteChannel Value="1" />
+							<LastNoteChannel Value="15" />
+						</MpeSettings>
+					</AudioInputRouting>
+					<MidiInputRouting>
+						<Target Value="MidiIn/External.All/-1" />
+						<UpperDisplayString Value="Ext: All Ins" />
+						<LowerDisplayString Value="" />
+						<MpeSettings>
+							<ZoneType Value="0" />
+							<FirstNoteChannel Value="1" />
+							<LastNoteChannel Value="15" />
+						</MpeSettings>
+					</MidiInputRouting>
+					<AudioOutputRouting>
+						<Target Value="AudioOut/Master" />
+						<UpperDisplayString Value="Master" />
+						<LowerDisplayString Value="" />
+						<MpeSettings>
+							<ZoneType Value="0" />
+							<FirstNoteChannel Value="1" />
+							<LastNoteChannel Value="15" />
+						</MpeSettings>
+					</AudioOutputRouting>
+					<MidiOutputRouting>
+						<Target Value="MidiOut/None" />
+						<UpperDisplayString Value="None" />
+						<LowerDisplayString Value="" />
+						<MpeSettings>
+							<ZoneType Value="0" />
+							<FirstNoteChannel Value="1" />
+							<LastNoteChannel Value="15" />
+						</MpeSettings>
+					</MidiOutputRouting>
+					<Mixer>
+						<LomId Value="0" />
+						<LomIdView Value="0" />
+						<IsExpanded Value="true" />
+						<On>
+							<LomId Value="0" />
+							<Manual Value="true" />
+							<AutomationTarget Id="484">
+								<LockEnvelope Value="0" />
+							</AutomationTarget>
+							<MidiCCOnOffThresholds>
+								<Min Value="64" />
+								<Max Value="127" />
+							</MidiCCOnOffThresholds>
+						</On>
+						<ModulationSourceCount Value="0" />
+						<ParametersListWrapper LomId="0" />
+						<Pointee Id="19724" />
+						<LastSelectedTimeableIndex Value="2" />
+						<LastSelectedClipEnvelopeIndex Value="0" />
+						<LastPresetRef>
+							<Value />
+						</LastPresetRef>
+						<LockedScripts />
+						<IsFolded Value="false" />
+						<ShouldShowPresetName Value="false" />
+						<UserName Value="" />
+						<Annotation Value="" />
+						<SourceContext>
+							<Value />
+						</SourceContext>
+						<Sends>
+							<TrackSendHolder Id="0">
+								<Send>
+									<LomId Value="0" />
+									<Manual Value="0.0003162277571" />
+									<MidiControllerRange>
+										<Min Value="0.0003162277571" />
+										<Max Value="1" />
+									</MidiControllerRange>
+									<AutomationTarget Id="501">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="502">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</Send>
+								<Active Value="false" />
+							</TrackSendHolder>
+							<TrackSendHolder Id="1">
+								<Send>
+									<LomId Value="0" />
+									<Manual Value="0.0003162277571" />
+									<MidiControllerRange>
+										<Min Value="0.0003162277571" />
+										<Max Value="1" />
+									</MidiControllerRange>
+									<AutomationTarget Id="522">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="523">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</Send>
+								<Active Value="false" />
+							</TrackSendHolder>
+						</Sends>
+						<Speaker>
+							<LomId Value="0" />
+							<Manual Value="true" />
+							<AutomationTarget Id="485">
+								<LockEnvelope Value="0" />
+							</AutomationTarget>
+							<MidiCCOnOffThresholds>
+								<Min Value="64" />
+								<Max Value="127" />
+							</MidiCCOnOffThresholds>
+						</Speaker>
+						<SoloSink Value="false" />
+						<PanMode Value="0" />
+						<Pan>
+							<LomId Value="0" />
+							<Manual Value="0" />
+							<MidiControllerRange>
+								<Min Value="-1" />
+								<Max Value="1" />
+							</MidiControllerRange>
+							<AutomationTarget Id="486">
+								<LockEnvelope Value="0" />
+							</AutomationTarget>
+							<ModulationTarget Id="487">
+								<LockEnvelope Value="0" />
+							</ModulationTarget>
+						</Pan>
+						<SplitStereoPanL>
+							<LomId Value="0" />
+							<Manual Value="-1" />
+							<MidiControllerRange>
+								<Min Value="-1" />
+								<Max Value="1" />
+							</MidiControllerRange>
+							<AutomationTarget Id="16167">
+								<LockEnvelope Value="0" />
+							</AutomationTarget>
+							<ModulationTarget Id="16168">
+								<LockEnvelope Value="0" />
+							</ModulationTarget>
+						</SplitStereoPanL>
+						<SplitStereoPanR>
+							<LomId Value="0" />
+							<Manual Value="1" />
+							<MidiControllerRange>
+								<Min Value="-1" />
+								<Max Value="1" />
+							</MidiControllerRange>
+							<AutomationTarget Id="16169">
+								<LockEnvelope Value="0" />
+							</AutomationTarget>
+							<ModulationTarget Id="16170">
+								<LockEnvelope Value="0" />
+							</ModulationTarget>
+						</SplitStereoPanR>
+						<Volume>
+							<LomId Value="0" />
+							<Manual Value="1" />
+							<MidiControllerRange>
+								<Min Value="0.0003162277571" />
+								<Max Value="1.99526238" />
+							</MidiControllerRange>
+							<AutomationTarget Id="488">
+								<LockEnvelope Value="0" />
+							</AutomationTarget>
+							<ModulationTarget Id="489">
+								<LockEnvelope Value="0" />
+							</ModulationTarget>
+						</Volume>
+						<ViewStateSesstionTrackWidth Value="93" />
+						<CrossFadeState>
+							<LomId Value="0" />
+							<Manual Value="1" />
+							<AutomationTarget Id="490">
+								<LockEnvelope Value="0" />
+							</AutomationTarget>
+						</CrossFadeState>
+						<SendsListWrapper LomId="0" />
+					</Mixer>
+					<DeviceChain>
+						<Devices>
+							<Reverb Id="2">
+								<LomId Value="0" />
+								<LomIdView Value="0" />
+								<IsExpanded Value="true" />
+								<On>
+									<LomId Value="0" />
+									<Manual Value="true" />
+									<AutomationTarget Id="19085">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<MidiCCOnOffThresholds>
+										<Min Value="64" />
+										<Max Value="127" />
+									</MidiCCOnOffThresholds>
+								</On>
+								<ModulationSourceCount Value="0" />
+								<ParametersListWrapper LomId="0" />
+								<Pointee Id="19725" />
+								<LastSelectedTimeableIndex Value="0" />
+								<LastSelectedClipEnvelopeIndex Value="0" />
+								<LastPresetRef>
+									<Value>
+										<FilePresetRef Id="1">
+											<FileRef>
+												<RelativePathType Value="0" />
+												<RelativePath Value="" />
+												<Path Value="/Reverb Default.adv" />
+												<Type Value="1" />
+												<LivePackName Value="" />
+												<LivePackId Value="" />
+												<OriginalFileSize Value="0" />
+												<OriginalCrc Value="0" />
+											</FileRef>
+										</FilePresetRef>
+									</Value>
+								</LastPresetRef>
+								<LockedScripts />
+								<IsFolded Value="false" />
+								<ShouldShowPresetName Value="false" />
+								<UserName Value="" />
+								<Annotation Value="" />
+								<SourceContext>
+									<Value />
+								</SourceContext>
+								<OverwriteProtectionNumber Value="2819" />
+								<PreDelay>
+									<LomId Value="0" />
+									<Manual Value="2.5" />
+									<MidiControllerRange>
+										<Min Value="0.5" />
+										<Max Value="250" />
+									</MidiControllerRange>
+									<AutomationTarget Id="19086">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="19087">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</PreDelay>
+								<BandHighOn>
+									<LomId Value="0" />
+									<Manual Value="true" />
+									<AutomationTarget Id="19088">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<MidiCCOnOffThresholds>
+										<Min Value="64" />
+										<Max Value="127" />
+									</MidiCCOnOffThresholds>
+								</BandHighOn>
+								<BandLowOn>
+									<LomId Value="0" />
+									<Manual Value="true" />
+									<AutomationTarget Id="19089">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<MidiCCOnOffThresholds>
+										<Min Value="64" />
+										<Max Value="127" />
+									</MidiCCOnOffThresholds>
+								</BandLowOn>
+								<BandFreq>
+									<LomId Value="0" />
+									<Manual Value="829.999939" />
+									<MidiControllerRange>
+										<Min Value="50" />
+										<Max Value="18000" />
+									</MidiControllerRange>
+									<AutomationTarget Id="19090">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="19091">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</BandFreq>
+								<BandWidth>
+									<LomId Value="0" />
+									<Manual Value="5.8499999" />
+									<MidiControllerRange>
+										<Min Value="0.5" />
+										<Max Value="9" />
+									</MidiControllerRange>
+									<AutomationTarget Id="19092">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="19093">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</BandWidth>
+								<SpinOn>
+									<LomId Value="0" />
+									<Manual Value="true" />
+									<AutomationTarget Id="19094">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<MidiCCOnOffThresholds>
+										<Min Value="64" />
+										<Max Value="127" />
+									</MidiCCOnOffThresholds>
+								</SpinOn>
+								<EarlyReflectModFreq>
+									<LomId Value="0" />
+									<Manual Value="0.2535530031" />
+									<MidiControllerRange>
+										<Min Value="0.07400000095" />
+										<Max Value="1.29999995" />
+									</MidiControllerRange>
+									<AutomationTarget Id="19095">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="19096">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</EarlyReflectModFreq>
+								<EarlyReflectModDepth>
+									<LomId Value="0" />
+									<Manual Value="3" />
+									<MidiControllerRange>
+										<Min Value="2" />
+										<Max Value="55" />
+									</MidiControllerRange>
+									<AutomationTarget Id="19097">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="19098">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</EarlyReflectModDepth>
+								<DiffuseDelay>
+									<LomId Value="0" />
+									<Manual Value="0.5" />
+									<MidiControllerRange>
+										<Min Value="0" />
+										<Max Value="1" />
+									</MidiControllerRange>
+									<AutomationTarget Id="19099">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="19100">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</DiffuseDelay>
+								<ShelfHighOn>
+									<LomId Value="0" />
+									<Manual Value="true" />
+									<AutomationTarget Id="19101">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<MidiCCOnOffThresholds>
+										<Min Value="64" />
+										<Max Value="127" />
+									</MidiCCOnOffThresholds>
+								</ShelfHighOn>
+								<HighFilterType>
+									<LomId Value="0" />
+									<Manual Value="0" />
+									<AutomationTarget Id="22153">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+								</HighFilterType>
+								<ShelfHiFreq>
+									<LomId Value="0" />
+									<Manual Value="4500.00049" />
+									<MidiControllerRange>
+										<Min Value="20" />
+										<Max Value="16000" />
+									</MidiControllerRange>
+									<AutomationTarget Id="19102">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="19103">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</ShelfHiFreq>
+								<ShelfHiGain>
+									<LomId Value="0" />
+									<Manual Value="0.6999999881" />
+									<MidiControllerRange>
+										<Min Value="0.200000003" />
+										<Max Value="1" />
+									</MidiControllerRange>
+									<AutomationTarget Id="19104">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="19105">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</ShelfHiGain>
+								<ShelfLowOn>
+									<LomId Value="0" />
+									<Manual Value="false" />
+									<AutomationTarget Id="19106">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<MidiCCOnOffThresholds>
+										<Min Value="64" />
+										<Max Value="127" />
+									</MidiCCOnOffThresholds>
+								</ShelfLowOn>
+								<ShelfLoFreq>
+									<LomId Value="0" />
+									<Manual Value="90" />
+									<MidiControllerRange>
+										<Min Value="20" />
+										<Max Value="15000" />
+									</MidiControllerRange>
+									<AutomationTarget Id="19107">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="19108">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</ShelfLoFreq>
+								<ShelfLoGain>
+									<LomId Value="0" />
+									<Manual Value="0.75" />
+									<MidiControllerRange>
+										<Min Value="0.200000003" />
+										<Max Value="1" />
+									</MidiControllerRange>
+									<AutomationTarget Id="19109">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="19110">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</ShelfLoGain>
+								<ChorusOn>
+									<LomId Value="0" />
+									<Manual Value="true" />
+									<AutomationTarget Id="19111">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<MidiCCOnOffThresholds>
+										<Min Value="64" />
+										<Max Value="127" />
+									</MidiCCOnOffThresholds>
+								</ChorusOn>
+								<SizeModFreq>
+									<LomId Value="0" />
+									<Manual Value="0.01999999955" />
+									<MidiControllerRange>
+										<Min Value="0.009999999776" />
+										<Max Value="8" />
+									</MidiControllerRange>
+									<AutomationTarget Id="19112">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="19113">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</SizeModFreq>
+								<SizeModDepth>
+									<LomId Value="0" />
+									<Manual Value="0.01999999955" />
+									<MidiControllerRange>
+										<Min Value="0.009999999776" />
+										<Max Value="4" />
+									</MidiControllerRange>
+									<AutomationTarget Id="19114">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="19115">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</SizeModDepth>
+								<DecayTime>
+									<LomId Value="0" />
+									<Manual Value="2500" />
+									<MidiControllerRange>
+										<Min Value="200" />
+										<Max Value="60000" />
+									</MidiControllerRange>
+									<AutomationTarget Id="19116">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="19117">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</DecayTime>
+								<AllPassGain>
+									<LomId Value="0" />
+									<Manual Value="0.6000000238" />
+									<MidiControllerRange>
+										<Min Value="0.001000000047" />
+										<Max Value="0.9599999785" />
+									</MidiControllerRange>
+									<AutomationTarget Id="19118">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="19119">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</AllPassGain>
+								<AllPassSize>
+									<LomId Value="0" />
+									<Manual Value="0.400000006" />
+									<MidiControllerRange>
+										<Min Value="0.05000000075" />
+										<Max Value="1" />
+									</MidiControllerRange>
+									<AutomationTarget Id="19120">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="19121">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</AllPassSize>
+								<FreezeOn>
+									<LomId Value="0" />
+									<Manual Value="false" />
+									<AutomationTarget Id="19122">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<MidiCCOnOffThresholds>
+										<Min Value="64" />
+										<Max Value="127" />
+									</MidiCCOnOffThresholds>
+								</FreezeOn>
+								<FlatOn>
+									<LomId Value="0" />
+									<Manual Value="true" />
+									<AutomationTarget Id="19123">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<MidiCCOnOffThresholds>
+										<Min Value="64" />
+										<Max Value="127" />
+									</MidiCCOnOffThresholds>
+								</FlatOn>
+								<CutOn>
+									<LomId Value="0" />
+									<Manual Value="true" />
+									<AutomationTarget Id="19124">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<MidiCCOnOffThresholds>
+										<Min Value="64" />
+										<Max Value="127" />
+									</MidiCCOnOffThresholds>
+								</CutOn>
+								<RoomSize>
+									<LomId Value="0" />
+									<Manual Value="100.000008" />
+									<MidiControllerRange>
+										<Min Value="0.2220000029" />
+										<Max Value="500" />
+									</MidiControllerRange>
+									<AutomationTarget Id="19125">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="19126">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</RoomSize>
+								<SizeSmoothing>
+									<LomId Value="0" />
+									<Manual Value="0" />
+									<AutomationTarget Id="22154">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+								</SizeSmoothing>
+								<StereoSeparation>
+									<LomId Value="0" />
+									<Manual Value="100" />
+									<MidiControllerRange>
+										<Min Value="0" />
+										<Max Value="120" />
+									</MidiControllerRange>
+									<AutomationTarget Id="19127">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="19128">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</StereoSeparation>
+								<RoomType>
+									<LomId Value="0" />
+									<Manual Value="3" />
+									<AutomationTarget Id="19129">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+								</RoomType>
+								<MixReflect>
+									<LomId Value="0" />
+									<Manual Value="1" />
+									<MidiControllerRange>
+										<Min Value="0.02999999933" />
+										<Max Value="1.99530005" />
+									</MidiControllerRange>
+									<AutomationTarget Id="19130">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="19131">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</MixReflect>
+								<MixDiffuse>
+									<LomId Value="0" />
+									<Manual Value="1" />
+									<MidiControllerRange>
+										<Min Value="0.02999999933" />
+										<Max Value="1.99530005" />
+									</MidiControllerRange>
+									<AutomationTarget Id="19132">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="19133">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</MixDiffuse>
+								<MixDirect>
+									<LomId Value="0" />
+									<Manual Value="1" />
+									<MidiControllerRange>
+										<Min Value="0" />
+										<Max Value="1" />
+									</MidiControllerRange>
+									<AutomationTarget Id="19134">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="19135">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</MixDirect>
+								<StereoSeparationOnDrySignal Value="false" />
+							</Reverb>
+						</Devices>
+						<SignalModulations />
+					</DeviceChain>
+					<FreezeSequencer>
+						<LomId Value="0" />
+						<LomIdView Value="0" />
+						<IsExpanded Value="true" />
+						<On>
+							<LomId Value="0" />
+							<Manual Value="true" />
+							<AutomationTarget Id="491">
+								<LockEnvelope Value="0" />
+							</AutomationTarget>
+							<MidiCCOnOffThresholds>
+								<Min Value="64" />
+								<Max Value="127" />
+							</MidiCCOnOffThresholds>
+						</On>
+						<ModulationSourceCount Value="0" />
+						<ParametersListWrapper LomId="0" />
+						<Pointee Id="19726" />
+						<LastSelectedTimeableIndex Value="0" />
+						<LastSelectedClipEnvelopeIndex Value="0" />
+						<LastPresetRef>
+							<Value />
+						</LastPresetRef>
+						<LockedScripts />
+						<IsFolded Value="false" />
+						<ShouldShowPresetName Value="false" />
+						<UserName Value="" />
+						<Annotation Value="" />
+						<SourceContext>
+							<Value />
+						</SourceContext>
+						<ClipSlotList />
+						<MonitoringEnum Value="1" />
+						<Sample>
+							<ArrangerAutomation>
+								<Events />
+								<AutomationTransformViewState>
+									<IsTransformPending Value="false" />
+									<TimeAndValueTransforms />
+								</AutomationTransformViewState>
+							</ArrangerAutomation>
+						</Sample>
+						<VolumeModulationTarget Id="492">
+							<LockEnvelope Value="0" />
+						</VolumeModulationTarget>
+						<TranspositionModulationTarget Id="493">
+							<LockEnvelope Value="0" />
+						</TranspositionModulationTarget>
+						<GrainSizeModulationTarget Id="494">
+							<LockEnvelope Value="0" />
+						</GrainSizeModulationTarget>
+						<FluxModulationTarget Id="495">
+							<LockEnvelope Value="0" />
+						</FluxModulationTarget>
+						<SampleOffsetModulationTarget Id="496">
+							<LockEnvelope Value="0" />
+						</SampleOffsetModulationTarget>
+						<PitchViewScrollPosition Value="-1073741824" />
+						<SampleOffsetModulationScrollPosition Value="-1073741824" />
+						<Recorder>
+							<IsArmed Value="false" />
+							<TakeCounter Value="1" />
+						</Recorder>
+					</FreezeSequencer>
+				</DeviceChain>
+			</ReturnTrack>
+			<ReturnTrack Id="3">
+				<LomId Value="0" />
+				<LomIdView Value="0" />
+				<IsContentSelectedInDocument Value="false" />
+				<PreferredContentViewMode Value="0" />
+				<TrackDelay>
+					<Value Value="0" />
+					<IsValueSampleBased Value="false" />
+				</TrackDelay>
+				<Name>
+					<EffectiveName Value="B-Delay" />
+					<UserName Value="" />
+					<Annotation Value="" />
+					<MemorizedFirstClipName Value="" />
+				</Name>
+				<Color Value="2" />
+				<AutomationEnvelopes>
+					<Envelopes />
+				</AutomationEnvelopes>
+				<TrackGroupId Value="-1" />
+				<TrackUnfolded Value="false" />
+				<DevicesListWrapper LomId="0" />
+				<ClipSlotsListWrapper LomId="0" />
+				<ViewData Value="{}" />
+				<TakeLanes>
+					<TakeLanes />
+					<AreTakeLanesFolded Value="true" />
+				</TakeLanes>
+				<LinkedTrackGroupId Value="-1" />
+				<DeviceChain>
+					<AutomationLanes>
+						<AutomationLanes>
+							<AutomationLane Id="0">
+								<SelectedDevice Value="1" />
+								<SelectedEnvelope Value="1" />
+								<IsContentSelectedInDocument Value="false" />
+								<LaneHeight Value="85" />
+							</AutomationLane>
+						</AutomationLanes>
+						<AreAdditionalAutomationLanesFolded Value="false" />
+					</AutomationLanes>
+					<ClipEnvelopeChooserViewState>
+						<SelectedDevice Value="0" />
+						<SelectedEnvelope Value="0" />
+						<PreferModulationVisible Value="false" />
+					</ClipEnvelopeChooserViewState>
+					<AudioInputRouting>
+						<Target Value="AudioIn/External/S0" />
+						<UpperDisplayString Value="Ext. In" />
+						<LowerDisplayString Value="1/2" />
+						<MpeSettings>
+							<ZoneType Value="0" />
+							<FirstNoteChannel Value="1" />
+							<LastNoteChannel Value="15" />
+						</MpeSettings>
+					</AudioInputRouting>
+					<MidiInputRouting>
+						<Target Value="MidiIn/External.All/-1" />
+						<UpperDisplayString Value="Ext: All Ins" />
+						<LowerDisplayString Value="" />
+						<MpeSettings>
+							<ZoneType Value="0" />
+							<FirstNoteChannel Value="1" />
+							<LastNoteChannel Value="15" />
+						</MpeSettings>
+					</MidiInputRouting>
+					<AudioOutputRouting>
+						<Target Value="AudioOut/Master" />
+						<UpperDisplayString Value="Master" />
+						<LowerDisplayString Value="" />
+						<MpeSettings>
+							<ZoneType Value="0" />
+							<FirstNoteChannel Value="1" />
+							<LastNoteChannel Value="15" />
+						</MpeSettings>
+					</AudioOutputRouting>
+					<MidiOutputRouting>
+						<Target Value="MidiOut/None" />
+						<UpperDisplayString Value="None" />
+						<LowerDisplayString Value="" />
+						<MpeSettings>
+							<ZoneType Value="0" />
+							<FirstNoteChannel Value="1" />
+							<LastNoteChannel Value="15" />
+						</MpeSettings>
+					</MidiOutputRouting>
+					<Mixer>
+						<LomId Value="0" />
+						<LomIdView Value="0" />
+						<IsExpanded Value="true" />
+						<On>
+							<LomId Value="0" />
+							<Manual Value="true" />
+							<AutomationTarget Id="503">
+								<LockEnvelope Value="0" />
+							</AutomationTarget>
+							<MidiCCOnOffThresholds>
+								<Min Value="64" />
+								<Max Value="127" />
+							</MidiCCOnOffThresholds>
+						</On>
+						<ModulationSourceCount Value="0" />
+						<ParametersListWrapper LomId="0" />
+						<Pointee Id="19727" />
+						<LastSelectedTimeableIndex Value="0" />
+						<LastSelectedClipEnvelopeIndex Value="0" />
+						<LastPresetRef>
+							<Value />
+						</LastPresetRef>
+						<LockedScripts />
+						<IsFolded Value="false" />
+						<ShouldShowPresetName Value="false" />
+						<UserName Value="" />
+						<Annotation Value="" />
+						<SourceContext>
+							<Value />
+						</SourceContext>
+						<Sends>
+							<TrackSendHolder Id="0">
+								<Send>
+									<LomId Value="0" />
+									<Manual Value="0.0003162277571" />
+									<MidiControllerRange>
+										<Min Value="0.0003162277571" />
+										<Max Value="1" />
+									</MidiControllerRange>
+									<AutomationTarget Id="504">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="505">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</Send>
+								<Active Value="false" />
+							</TrackSendHolder>
+							<TrackSendHolder Id="1">
+								<Send>
+									<LomId Value="0" />
+									<Manual Value="0.0003162277571" />
+									<MidiControllerRange>
+										<Min Value="0.0003162277571" />
+										<Max Value="1" />
+									</MidiControllerRange>
+									<AutomationTarget Id="524">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="525">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</Send>
+								<Active Value="false" />
+							</TrackSendHolder>
+						</Sends>
+						<Speaker>
+							<LomId Value="0" />
+							<Manual Value="true" />
+							<AutomationTarget Id="506">
+								<LockEnvelope Value="0" />
+							</AutomationTarget>
+							<MidiCCOnOffThresholds>
+								<Min Value="64" />
+								<Max Value="127" />
+							</MidiCCOnOffThresholds>
+						</Speaker>
+						<SoloSink Value="false" />
+						<PanMode Value="0" />
+						<Pan>
+							<LomId Value="0" />
+							<Manual Value="0" />
+							<MidiControllerRange>
+								<Min Value="-1" />
+								<Max Value="1" />
+							</MidiControllerRange>
+							<AutomationTarget Id="507">
+								<LockEnvelope Value="0" />
+							</AutomationTarget>
+							<ModulationTarget Id="508">
+								<LockEnvelope Value="0" />
+							</ModulationTarget>
+						</Pan>
+						<SplitStereoPanL>
+							<LomId Value="0" />
+							<Manual Value="-1" />
+							<MidiControllerRange>
+								<Min Value="-1" />
+								<Max Value="1" />
+							</MidiControllerRange>
+							<AutomationTarget Id="16171">
+								<LockEnvelope Value="0" />
+							</AutomationTarget>
+							<ModulationTarget Id="16172">
+								<LockEnvelope Value="0" />
+							</ModulationTarget>
+						</SplitStereoPanL>
+						<SplitStereoPanR>
+							<LomId Value="0" />
+							<Manual Value="1" />
+							<MidiControllerRange>
+								<Min Value="-1" />
+								<Max Value="1" />
+							</MidiControllerRange>
+							<AutomationTarget Id="16173">
+								<LockEnvelope Value="0" />
+							</AutomationTarget>
+							<ModulationTarget Id="16174">
+								<LockEnvelope Value="0" />
+							</ModulationTarget>
+						</SplitStereoPanR>
+						<Volume>
+							<LomId Value="0" />
+							<Manual Value="1" />
+							<MidiControllerRange>
+								<Min Value="0.0003162277571" />
+								<Max Value="1.99526238" />
+							</MidiControllerRange>
+							<AutomationTarget Id="509">
+								<LockEnvelope Value="0" />
+							</AutomationTarget>
+							<ModulationTarget Id="510">
+								<LockEnvelope Value="0" />
+							</ModulationTarget>
+						</Volume>
+						<ViewStateSesstionTrackWidth Value="93" />
+						<CrossFadeState>
+							<LomId Value="0" />
+							<Manual Value="1" />
+							<AutomationTarget Id="511">
+								<LockEnvelope Value="0" />
+							</AutomationTarget>
+						</CrossFadeState>
+						<SendsListWrapper LomId="0" />
+					</Mixer>
+					<DeviceChain>
+						<Devices>
+							<Delay Id="7">
+								<LomId Value="0" />
+								<LomIdView Value="0" />
+								<IsExpanded Value="true" />
+								<On>
+									<LomId Value="0" />
+									<Manual Value="true" />
+									<AutomationTarget Id="10578">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<MidiCCOnOffThresholds>
+										<Min Value="64" />
+										<Max Value="127" />
+									</MidiCCOnOffThresholds>
+								</On>
+								<ModulationSourceCount Value="0" />
+								<ParametersListWrapper LomId="0" />
+								<Pointee Id="19728" />
+								<LastSelectedTimeableIndex Value="1" />
+								<LastSelectedClipEnvelopeIndex Value="0" />
+								<LastPresetRef>
+									<Value>
+										<FilePresetRef Id="0">
+											<FileRef>
+												<RelativePathType Value="0" />
+												<RelativePath Value="" />
+												<Path Value="/Users/nsh/Library/Application Support/Ableton/Live 11 Core Library/Devices/Audio Effects/Simple Delay/Dotted Eighth Note.adv" />
+												<Type Value="1" />
+												<LivePackName Value="" />
+												<LivePackId Value="" />
+												<OriginalFileSize Value="0" />
+												<OriginalCrc Value="0" />
+											</FileRef>
+										</FilePresetRef>
+									</Value>
+								</LastPresetRef>
+								<LockedScripts />
+								<IsFolded Value="false" />
+								<ShouldShowPresetName Value="true" />
+								<UserName Value="Delay" />
+								<Annotation Value="" />
+								<SourceContext>
+									<Value>
+										<BranchSourceContext Id="0">
+											<OriginalFileRef>
+												<FileRef Id="0">
+													<RelativePathType Value="5" />
+													<RelativePath Value="Devices/Audio Effects/Simple Delay/Dotted Eighth Note.adv" />
+													<Path Value="/Dotted Eighth Note.adv" />
+													<Type Value="2" />
+													<LivePackName Value="Core Library" />
+													<LivePackId Value="www.ableton.com/0" />
+													<OriginalFileSize Value="0" />
+													<OriginalCrc Value="0" />
+												</FileRef>
+											</OriginalFileRef>
+											<BrowserContentPath Value="query:AudioFx#Simple%20Delay:Dotted%20Eighth%20Note.adv" />
+											<PresetRef>
+												<FilePresetRef Id="0">
+													<FileRef>
+														<RelativePathType Value="0" />
+														<RelativePath Value="" />
+														<Path Value="/Users/nsh/Library/Application Support/Ableton/Live 11 Core Library/Devices/Audio Effects/Simple Delay/Dotted Eighth Note.adv" />
+														<Type Value="1" />
+														<LivePackName Value="" />
+														<LivePackId Value="" />
+														<OriginalFileSize Value="0" />
+														<OriginalCrc Value="0" />
+													</FileRef>
+												</FilePresetRef>
+											</PresetRef>
+											<BranchDeviceId Value="device:ableton:audiofx:CrossDelay?n=Simple%20Delay" />
+										</BranchSourceContext>
+									</Value>
+								</SourceContext>
+								<OverwriteProtectionNumber Value="2819" />
+								<DelayLine_SmoothingMode>
+									<LomId Value="0" />
+									<Manual Value="0" />
+									<AutomationTarget Id="17335">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+								</DelayLine_SmoothingMode>
+								<DelayLine_Link>
+									<LomId Value="0" />
+									<Manual Value="false" />
+									<AutomationTarget Id="10579">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<MidiCCOnOffThresholds>
+										<Min Value="64" />
+										<Max Value="127" />
+									</MidiCCOnOffThresholds>
+								</DelayLine_Link>
+								<DelayLine_PingPong>
+									<LomId Value="0" />
+									<Manual Value="false" />
+									<AutomationTarget Id="17336">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<MidiCCOnOffThresholds>
+										<Min Value="64" />
+										<Max Value="127" />
+									</MidiCCOnOffThresholds>
+								</DelayLine_PingPong>
+								<DelayLine_SyncL>
+									<LomId Value="0" />
+									<Manual Value="true" />
+									<AutomationTarget Id="10580">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<MidiCCOnOffThresholds>
+										<Min Value="64" />
+										<Max Value="127" />
+									</MidiCCOnOffThresholds>
+								</DelayLine_SyncL>
+								<DelayLine_SyncR>
+									<LomId Value="0" />
+									<Manual Value="true" />
+									<AutomationTarget Id="10586">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<MidiCCOnOffThresholds>
+										<Min Value="64" />
+										<Max Value="127" />
+									</MidiCCOnOffThresholds>
+								</DelayLine_SyncR>
+								<DelayLine_TimeL>
+									<LomId Value="0" />
+									<Manual Value="0.02209999785" />
+									<MidiControllerRange>
+										<Min Value="0.001000000047" />
+										<Max Value="5" />
+									</MidiControllerRange>
+									<AutomationTarget Id="17337">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="17338">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</DelayLine_TimeL>
+								<DelayLine_TimeR>
+									<LomId Value="0" />
+									<Manual Value="0.02289999276" />
+									<MidiControllerRange>
+										<Min Value="0.001000000047" />
+										<Max Value="5" />
+									</MidiControllerRange>
+									<AutomationTarget Id="17339">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="17340">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</DelayLine_TimeR>
+								<DelayLine_SimpleDelayTimeL>
+									<LomId Value="0" />
+									<Manual Value="22.1000004" />
+									<MidiControllerRange>
+										<Min Value="1" />
+										<Max Value="300" />
+									</MidiControllerRange>
+									<AutomationTarget Id="10584">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="10585">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</DelayLine_SimpleDelayTimeL>
+								<DelayLine_SimpleDelayTimeR>
+									<LomId Value="0" />
+									<Manual Value="22.8999996" />
+									<MidiControllerRange>
+										<Min Value="1" />
+										<Max Value="300" />
+									</MidiControllerRange>
+									<AutomationTarget Id="10590">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="10591">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</DelayLine_SimpleDelayTimeR>
+								<DelayLine_PingPongDelayTimeL>
+									<LomId Value="0" />
+									<Manual Value="1" />
+									<MidiControllerRange>
+										<Min Value="1" />
+										<Max Value="999" />
+									</MidiControllerRange>
+									<AutomationTarget Id="17341">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="17342">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</DelayLine_PingPongDelayTimeL>
+								<DelayLine_PingPongDelayTimeR>
+									<LomId Value="0" />
+									<Manual Value="1" />
+									<MidiControllerRange>
+										<Min Value="1" />
+										<Max Value="999" />
+									</MidiControllerRange>
+									<AutomationTarget Id="17343">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="17344">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</DelayLine_PingPongDelayTimeR>
+								<DelayLine_SyncedSixteenthL>
+									<LomId Value="0" />
+									<Manual Value="2" />
+									<AutomationTarget Id="10581">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+								</DelayLine_SyncedSixteenthL>
+								<DelayLine_SyncedSixteenthR>
+									<LomId Value="0" />
+									<Manual Value="2" />
+									<AutomationTarget Id="10587">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+								</DelayLine_SyncedSixteenthR>
+								<DelayLine_OffsetL>
+									<LomId Value="0" />
+									<Manual Value="0" />
+									<MidiControllerRange>
+										<Min Value="-0.3330000043" />
+										<Max Value="0.3330000043" />
+									</MidiControllerRange>
+									<AutomationTarget Id="10582">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="10583">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</DelayLine_OffsetL>
+								<DelayLine_OffsetR>
+									<LomId Value="0" />
+									<Manual Value="0" />
+									<MidiControllerRange>
+										<Min Value="-0.3330000043" />
+										<Max Value="0.3330000043" />
+									</MidiControllerRange>
+									<AutomationTarget Id="10588">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="10589">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</DelayLine_OffsetR>
+								<DelayLine_CompatibilityMode Value="0" />
+								<Feedback>
+									<LomId Value="0" />
+									<Manual Value="0.2099999934" />
+									<MidiControllerRange>
+										<Min Value="0" />
+										<Max Value="0.9499999881" />
+									</MidiControllerRange>
+									<AutomationTarget Id="10592">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="10593">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</Feedback>
+								<Freeze>
+									<LomId Value="0" />
+									<Manual Value="false" />
+									<AutomationTarget Id="17345">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<MidiCCOnOffThresholds>
+										<Min Value="64" />
+										<Max Value="127" />
+									</MidiCCOnOffThresholds>
+								</Freeze>
+								<Filter_On>
+									<LomId Value="0" />
+									<Manual Value="false" />
+									<AutomationTarget Id="17346">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<MidiCCOnOffThresholds>
+										<Min Value="64" />
+										<Max Value="127" />
+									</MidiCCOnOffThresholds>
+								</Filter_On>
+								<Filter_Frequency>
+									<LomId Value="0" />
+									<Manual Value="999.999878" />
+									<MidiControllerRange>
+										<Min Value="49.9999962" />
+										<Max Value="18000.0059" />
+									</MidiControllerRange>
+									<AutomationTarget Id="17347">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="17348">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</Filter_Frequency>
+								<Filter_Bandwidth>
+									<LomId Value="0" />
+									<Manual Value="8" />
+									<MidiControllerRange>
+										<Min Value="0.5" />
+										<Max Value="9" />
+									</MidiControllerRange>
+									<AutomationTarget Id="17349">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="17350">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</Filter_Bandwidth>
+								<Modulation_Frequency>
+									<LomId Value="0" />
+									<Manual Value="0.5" />
+									<MidiControllerRange>
+										<Min Value="0.01000000071" />
+										<Max Value="39.9999962" />
+									</MidiControllerRange>
+									<AutomationTarget Id="17351">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="17352">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</Modulation_Frequency>
+								<Modulation_AmountTime>
+									<LomId Value="0" />
+									<Manual Value="0" />
+									<MidiControllerRange>
+										<Min Value="0" />
+										<Max Value="1" />
+									</MidiControllerRange>
+									<AutomationTarget Id="17353">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="17354">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</Modulation_AmountTime>
+								<Modulation_AmountFilter>
+									<LomId Value="0" />
+									<Manual Value="0" />
+									<MidiControllerRange>
+										<Min Value="0" />
+										<Max Value="1" />
+									</MidiControllerRange>
+									<AutomationTarget Id="17355">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="17356">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</Modulation_AmountFilter>
+								<DryWet>
+									<LomId Value="0" />
+									<Manual Value="1" />
+									<MidiControllerRange>
+										<Min Value="0" />
+										<Max Value="1" />
+									</MidiControllerRange>
+									<AutomationTarget Id="10594">
+										<LockEnvelope Value="0" />
+									</AutomationTarget>
+									<ModulationTarget Id="10595">
+										<LockEnvelope Value="0" />
+									</ModulationTarget>
+								</DryWet>
+								<DryWetMode Value="1" />
+								<EcoProcessing Value="false" />
+							</Delay>
+						</Devices>
+						<SignalModulations />
+					</DeviceChain>
+					<FreezeSequencer>
+						<LomId Value="0" />
+						<LomIdView Value="0" />
+						<IsExpanded Value="true" />
+						<On>
+							<LomId Value="0" />
+							<Manual Value="true" />
+							<AutomationTarget Id="512">
+								<LockEnvelope Value="0" />
+							</AutomationTarget>
+							<MidiCCOnOffThresholds>
+								<Min Value="64" />
+								<Max Value="127" />
+							</MidiCCOnOffThresholds>
+						</On>
+						<ModulationSourceCount Value="0" />
+						<ParametersListWrapper LomId="0" />
+						<Pointee Id="19729" />
+						<LastSelectedTimeableIndex Value="0" />
+						<LastSelectedClipEnvelopeIndex Value="0" />
+						<LastPresetRef>
+							<Value />
+						</LastPresetRef>
+						<LockedScripts />
+						<IsFolded Value="false" />
+						<ShouldShowPresetName Value="false" />
+						<UserName Value="" />
+						<Annotation Value="" />
+						<SourceContext>
+							<Value />
+						</SourceContext>
+						<ClipSlotList />
+						<MonitoringEnum Value="1" />
+						<Sample>
+							<ArrangerAutomation>
+								<Events />
+								<AutomationTransformViewState>
+									<IsTransformPending Value="false" />
+									<TimeAndValueTransforms />
+								</AutomationTransformViewState>
+							</ArrangerAutomation>
+						</Sample>
+						<VolumeModulationTarget Id="513">
+							<LockEnvelope Value="0" />
+						</VolumeModulationTarget>
+						<TranspositionModulationTarget Id="514">
+							<LockEnvelope Value="0" />
+						</TranspositionModulationTarget>
+						<GrainSizeModulationTarget Id="515">
+							<LockEnvelope Value="0" />
+						</GrainSizeModulationTarget>
+						<FluxModulationTarget Id="516">
+							<LockEnvelope Value="0" />
+						</FluxModulationTarget>
+						<SampleOffsetModulationTarget Id="517">
+							<LockEnvelope Value="0" />
+						</SampleOffsetModulationTarget>
+						<PitchViewScrollPosition Value="-1073741824" />
+						<SampleOffsetModulationScrollPosition Value="-1073741824" />
+						<Recorder>
+							<IsArmed Value="false" />
+							<TakeCounter Value="1" />
+						</Recorder>
+					</FreezeSequencer>
+				</DeviceChain>
+			</ReturnTrack>
+		</Tracks>
+		<MasterTrack>
+			<LomId Value="0" />
+			<LomIdView Value="0" />
+			<IsContentSelectedInDocument Value="false" />
+			<PreferredContentViewMode Value="0" />
+			<TrackDelay>
+				<Value Value="0" />
+				<IsValueSampleBased Value="false" />
+			</TrackDelay>
+			<Name>
+				<EffectiveName Value="Master" />
+				<UserName Value="" />
+				<Annotation Value="" />
+				<MemorizedFirstClipName Value="" />
+			</Name>
+			<Color Value="18" />
+			<AutomationEnvelopes>
+				<Envelopes>
+					<AutomationEnvelope Id="0">
+						<EnvelopeTarget>
+							<PointeeId Value="10" />
+						</EnvelopeTarget>
+						<Automation>
+							<Events>
+								<EnumEvent Id="0" Time="-63072000" Value="201" />
+							</Events>
+							<AutomationTransformViewState>
+								<IsTransformPending Value="false" />
+								<TimeAndValueTransforms />
+							</AutomationTransformViewState>
+						</Automation>
+					</AutomationEnvelope>
+					<AutomationEnvelope Id="1">
+						<EnvelopeTarget>
+							<PointeeId Value="8" />
+						</EnvelopeTarget>
+						<Automation>
+							<Events>
+								<FloatEvent Id="0" Time="-63072000" Value="120" />
+							</Events>
+							<AutomationTransformViewState>
+								<IsTransformPending Value="false" />
+								<TimeAndValueTransforms />
+							</AutomationTransformViewState>
+						</Automation>
+					</AutomationEnvelope>
+				</Envelopes>
+			</AutomationEnvelopes>
+			<TrackGroupId Value="-1" />
+			<TrackUnfolded Value="false" />
+			<DevicesListWrapper LomId="0" />
+			<ClipSlotsListWrapper LomId="0" />
+			<ViewData Value="{}" />
+			<TakeLanes>
+				<TakeLanes />
+				<AreTakeLanesFolded Value="true" />
+			</TakeLanes>
+			<LinkedTrackGroupId Value="-1" />
+			<DeviceChain>
+				<AutomationLanes>
+					<AutomationLanes>
+						<AutomationLane Id="0">
+							<SelectedDevice Value="1" />
+							<SelectedEnvelope Value="2" />
+							<IsContentSelectedInDocument Value="false" />
+							<LaneHeight Value="85" />
+						</AutomationLane>
+					</AutomationLanes>
+					<AreAdditionalAutomationLanesFolded Value="false" />
+				</AutomationLanes>
+				<ClipEnvelopeChooserViewState>
+					<SelectedDevice Value="0" />
+					<SelectedEnvelope Value="0" />
+					<PreferModulationVisible Value="false" />
+				</ClipEnvelopeChooserViewState>
+				<AudioInputRouting>
+					<Target Value="AudioIn/External/S0" />
+					<UpperDisplayString Value="Ext. In" />
+					<LowerDisplayString Value="1/2" />
+					<MpeSettings>
+						<ZoneType Value="0" />
+						<FirstNoteChannel Value="1" />
+						<LastNoteChannel Value="15" />
+					</MpeSettings>
+				</AudioInputRouting>
+				<MidiInputRouting>
+					<Target Value="MidiIn/External.All/-1" />
+					<UpperDisplayString Value="Ext: All Ins" />
+					<LowerDisplayString Value="" />
+					<MpeSettings>
+						<ZoneType Value="0" />
+						<FirstNoteChannel Value="1" />
+						<LastNoteChannel Value="15" />
+					</MpeSettings>
+				</MidiInputRouting>
+				<AudioOutputRouting>
+					<Target Value="AudioOut/External/S0" />
+					<UpperDisplayString Value="Ext. Out" />
+					<LowerDisplayString Value="1/2" />
+					<MpeSettings>
+						<ZoneType Value="0" />
+						<FirstNoteChannel Value="1" />
+						<LastNoteChannel Value="15" />
+					</MpeSettings>
+				</AudioOutputRouting>
+				<MidiOutputRouting>
+					<Target Value="MidiOut/None" />
+					<UpperDisplayString Value="None" />
+					<LowerDisplayString Value="" />
+					<MpeSettings>
+						<ZoneType Value="0" />
+						<FirstNoteChannel Value="1" />
+						<LastNoteChannel Value="15" />
+					</MpeSettings>
+				</MidiOutputRouting>
+				<Mixer>
+					<LomId Value="0" />
+					<LomIdView Value="0" />
+					<IsExpanded Value="true" />
+					<On>
+						<LomId Value="0" />
+						<Manual Value="true" />
+						<AutomationTarget Id="1">
+							<LockEnvelope Value="0" />
+						</AutomationTarget>
+						<MidiCCOnOffThresholds>
+							<Min Value="64" />
+							<Max Value="127" />
+						</MidiCCOnOffThresholds>
+					</On>
+					<ModulationSourceCount Value="0" />
+					<ParametersListWrapper LomId="0" />
+					<Pointee Id="19730" />
+					<LastSelectedTimeableIndex Value="2" />
+					<LastSelectedClipEnvelopeIndex Value="0" />
+					<LastPresetRef>
+						<Value />
+					</LastPresetRef>
+					<LockedScripts />
+					<IsFolded Value="false" />
+					<ShouldShowPresetName Value="false" />
+					<UserName Value="" />
+					<Annotation Value="" />
+					<SourceContext>
+						<Value />
+					</SourceContext>
+					<Sends />
+					<Speaker>
+						<LomId Value="0" />
+						<Manual Value="true" />
+						<AutomationTarget Id="2">
+							<LockEnvelope Value="0" />
+						</AutomationTarget>
+						<MidiCCOnOffThresholds>
+							<Min Value="64" />
+							<Max Value="127" />
+						</MidiCCOnOffThresholds>
+					</Speaker>
+					<SoloSink Value="false" />
+					<PanMode Value="0" />
+					<Pan>
+						<LomId Value="0" />
+						<Manual Value="0" />
+						<MidiControllerRange>
+							<Min Value="-1" />
+							<Max Value="1" />
+						</MidiControllerRange>
+						<AutomationTarget Id="3">
+							<LockEnvelope Value="0" />
+						</AutomationTarget>
+						<ModulationTarget Id="4">
+							<LockEnvelope Value="0" />
+						</ModulationTarget>
+					</Pan>
+					<SplitStereoPanL>
+						<LomId Value="0" />
+						<Manual Value="-1" />
+						<MidiControllerRange>
+							<Min Value="-1" />
+							<Max Value="1" />
+						</MidiControllerRange>
+						<AutomationTarget Id="16175">
+							<LockEnvelope Value="0" />
+						</AutomationTarget>
+						<ModulationTarget Id="16176">
+							<LockEnvelope Value="0" />
+						</ModulationTarget>
+					</SplitStereoPanL>
+					<SplitStereoPanR>
+						<LomId Value="0" />
+						<Manual Value="1" />
+						<MidiControllerRange>
+							<Min Value="-1" />
+							<Max Value="1" />
+						</MidiControllerRange>
+						<AutomationTarget Id="16177">
+							<LockEnvelope Value="0" />
+						</AutomationTarget>
+						<ModulationTarget Id="16178">
+							<LockEnvelope Value="0" />
+						</ModulationTarget>
+					</SplitStereoPanR>
+					<Volume>
+						<LomId Value="0" />
+						<Manual Value="1" />
+						<MidiControllerRange>
+							<Min Value="0.0003162277571" />
+							<Max Value="1.99526238" />
+						</MidiControllerRange>
+						<AutomationTarget Id="5">
+							<LockEnvelope Value="0" />
+						</AutomationTarget>
+						<ModulationTarget Id="6">
+							<LockEnvelope Value="0" />
+						</ModulationTarget>
+					</Volume>
+					<ViewStateSesstionTrackWidth Value="93" />
+					<CrossFadeState>
+						<LomId Value="0" />
+						<Manual Value="1" />
+						<AutomationTarget Id="7">
+							<LockEnvelope Value="0" />
+						</AutomationTarget>
+					</CrossFadeState>
+					<SendsListWrapper LomId="0" />
+					<Tempo>
+						<LomId Value="0" />
+						<Manual Value="120" />
+						<MidiControllerRange>
+							<Min Value="60" />
+							<Max Value="200" />
+						</MidiControllerRange>
+						<AutomationTarget Id="8">
+							<LockEnvelope Value="0" />
+						</AutomationTarget>
+						<ModulationTarget Id="9">
+							<LockEnvelope Value="0" />
+						</ModulationTarget>
+					</Tempo>
+					<TimeSignature>
+						<LomId Value="0" />
+						<Manual Value="201" />
+						<AutomationTarget Id="10">
+							<LockEnvelope Value="0" />
+						</AutomationTarget>
+					</TimeSignature>
+					<GlobalGrooveAmount>
+						<LomId Value="0" />
+						<Manual Value="100" />
+						<MidiControllerRange>
+							<Min Value="0" />
+							<Max Value="131.25" />
+						</MidiControllerRange>
+						<AutomationTarget Id="11">
+							<LockEnvelope Value="0" />
+						</AutomationTarget>
+						<ModulationTarget Id="12">
+							<LockEnvelope Value="0" />
+						</ModulationTarget>
+					</GlobalGrooveAmount>
+					<CrossFade>
+						<LomId Value="0" />
+						<Manual Value="0" />
+						<MidiControllerRange>
+							<Min Value="-1" />
+							<Max Value="1" />
+						</MidiControllerRange>
+						<AutomationTarget Id="13">
+							<LockEnvelope Value="0" />
+						</AutomationTarget>
+						<ModulationTarget Id="14">
+							<LockEnvelope Value="0" />
+						</ModulationTarget>
+					</CrossFade>
+					<TempoAutomationViewBottom Value="60" />
+					<TempoAutomationViewTop Value="200" />
+				</Mixer>
+				<FreezeSequencer>
+					<AudioSequencer Id="0">
+						<LomId Value="0" />
+						<LomIdView Value="0" />
+						<IsExpanded Value="true" />
+						<On>
+							<LomId Value="0" />
+							<Manual Value="true" />
+							<AutomationTarget Id="15">
+								<LockEnvelope Value="0" />
+							</AutomationTarget>
+							<MidiCCOnOffThresholds>
+								<Min Value="64" />
+								<Max Value="127" />
+							</MidiCCOnOffThresholds>
+						</On>
+						<ModulationSourceCount Value="0" />
+						<ParametersListWrapper LomId="0" />
+						<Pointee Id="19731" />
+						<LastSelectedTimeableIndex Value="0" />
+						<LastSelectedClipEnvelopeIndex Value="0" />
+						<LastPresetRef>
+							<Value />
+						</LastPresetRef>
+						<LockedScripts />
+						<IsFolded Value="false" />
+						<ShouldShowPresetName Value="false" />
+						<UserName Value="" />
+						<Annotation Value="" />
+						<SourceContext>
+							<Value />
+						</SourceContext>
+						<ClipSlotList />
+						<MonitoringEnum Value="1" />
+						<Sample>
+							<ArrangerAutomation>
+								<Events />
+								<AutomationTransformViewState>
+									<IsTransformPending Value="false" />
+									<TimeAndValueTransforms />
+								</AutomationTransformViewState>
+							</ArrangerAutomation>
+						</Sample>
+						<VolumeModulationTarget Id="16">
+							<LockEnvelope Value="0" />
+						</VolumeModulationTarget>
+						<TranspositionModulationTarget Id="17">
+							<LockEnvelope Value="0" />
+						</TranspositionModulationTarget>
+						<GrainSizeModulationTarget Id="18">
+							<LockEnvelope Value="0" />
+						</GrainSizeModulationTarget>
+						<FluxModulationTarget Id="19">
+							<LockEnvelope Value="0" />
+						</FluxModulationTarget>
+						<SampleOffsetModulationTarget Id="20">
+							<LockEnvelope Value="0" />
+						</SampleOffsetModulationTarget>
+						<PitchViewScrollPosition Value="-1073741824" />
+						<SampleOffsetModulationScrollPosition Value="-1073741824" />
+						<Recorder>
+							<IsArmed Value="false" />
+							<TakeCounter Value="1" />
+						</Recorder>
+					</AudioSequencer>
+				</FreezeSequencer>
+				<DeviceChain>
+					<Devices />
+					<SignalModulations />
+				</DeviceChain>
+			</DeviceChain>
+		</MasterTrack>
+		<PreHearTrack>
+			<LomId Value="0" />
+			<LomIdView Value="0" />
+			<IsContentSelectedInDocument Value="false" />
+			<PreferredContentViewMode Value="0" />
+			<TrackDelay>
+				<Value Value="0" />
+				<IsValueSampleBased Value="false" />
+			</TrackDelay>
+			<Name>
+				<EffectiveName Value="Master" />
+				<UserName Value="" />
+				<Annotation Value="" />
+				<MemorizedFirstClipName Value="" />
+			</Name>
+			<Color Value="-1" />
+			<AutomationEnvelopes>
+				<Envelopes />
+			</AutomationEnvelopes>
+			<TrackGroupId Value="-1" />
+			<TrackUnfolded Value="false" />
+			<DevicesListWrapper LomId="0" />
+			<ClipSlotsListWrapper LomId="0" />
+			<ViewData Value="{}" />
+			<TakeLanes>
+				<TakeLanes />
+				<AreTakeLanesFolded Value="true" />
+			</TakeLanes>
+			<LinkedTrackGroupId Value="-1" />
+			<DeviceChain>
+				<AutomationLanes>
+					<AutomationLanes>
+						<AutomationLane Id="0">
+							<SelectedDevice Value="0" />
+							<SelectedEnvelope Value="0" />
+							<IsContentSelectedInDocument Value="false" />
+							<LaneHeight Value="85" />
+						</AutomationLane>
+					</AutomationLanes>
+					<AreAdditionalAutomationLanesFolded Value="false" />
+				</AutomationLanes>
+				<ClipEnvelopeChooserViewState>
+					<SelectedDevice Value="0" />
+					<SelectedEnvelope Value="0" />
+					<PreferModulationVisible Value="false" />
+				</ClipEnvelopeChooserViewState>
+				<AudioInputRouting>
+					<Target Value="AudioIn/External/S0" />
+					<UpperDisplayString Value="Ext. In" />
+					<LowerDisplayString Value="1/2" />
+					<MpeSettings>
+						<ZoneType Value="0" />
+						<FirstNoteChannel Value="1" />
+						<LastNoteChannel Value="15" />
+					</MpeSettings>
+				</AudioInputRouting>
+				<MidiInputRouting>
+					<Target Value="MidiIn/External.All/-1" />
+					<UpperDisplayString Value="Ext: All Ins" />
+					<LowerDisplayString Value="" />
+					<MpeSettings>
+						<ZoneType Value="0" />
+						<FirstNoteChannel Value="1" />
+						<LastNoteChannel Value="15" />
+					</MpeSettings>
+				</MidiInputRouting>
+				<AudioOutputRouting>
+					<Target Value="AudioOut/External/S0" />
+					<UpperDisplayString Value="Ext. Out" />
+					<LowerDisplayString Value="1/2" />
+					<MpeSettings>
+						<ZoneType Value="0" />
+						<FirstNoteChannel Value="1" />
+						<LastNoteChannel Value="15" />
+					</MpeSettings>
+				</AudioOutputRouting>
+				<MidiOutputRouting>
+					<Target Value="MidiOut/None" />
+					<UpperDisplayString Value="None" />
+					<LowerDisplayString Value="" />
+					<MpeSettings>
+						<ZoneType Value="0" />
+						<FirstNoteChannel Value="1" />
+						<LastNoteChannel Value="15" />
+					</MpeSettings>
+				</MidiOutputRouting>
+				<Mixer>
+					<LomId Value="0" />
+					<LomIdView Value="0" />
+					<IsExpanded Value="true" />
+					<On>
+						<LomId Value="0" />
+						<Manual Value="true" />
+						<AutomationTarget Id="21">
+							<LockEnvelope Value="0" />
+						</AutomationTarget>
+						<MidiCCOnOffThresholds>
+							<Min Value="64" />
+							<Max Value="127" />
+						</MidiCCOnOffThresholds>
+					</On>
+					<ModulationSourceCount Value="0" />
+					<ParametersListWrapper LomId="0" />
+					<Pointee Id="19732" />
+					<LastSelectedTimeableIndex Value="0" />
+					<LastSelectedClipEnvelopeIndex Value="0" />
+					<LastPresetRef>
+						<Value />
+					</LastPresetRef>
+					<LockedScripts />
+					<IsFolded Value="false" />
+					<ShouldShowPresetName Value="false" />
+					<UserName Value="" />
+					<Annotation Value="" />
+					<SourceContext>
+						<Value />
+					</SourceContext>
+					<Sends />
+					<Speaker>
+						<LomId Value="0" />
+						<Manual Value="true" />
+						<AutomationTarget Id="22">
+							<LockEnvelope Value="0" />
+						</AutomationTarget>
+						<MidiCCOnOffThresholds>
+							<Min Value="64" />
+							<Max Value="127" />
+						</MidiCCOnOffThresholds>
+					</Speaker>
+					<SoloSink Value="false" />
+					<PanMode Value="0" />
+					<Pan>
+						<LomId Value="0" />
+						<Manual Value="0" />
+						<MidiControllerRange>
+							<Min Value="-1" />
+							<Max Value="1" />
+						</MidiControllerRange>
+						<AutomationTarget Id="23">
+							<LockEnvelope Value="0" />
+						</AutomationTarget>
+						<ModulationTarget Id="24">
+							<LockEnvelope Value="0" />
+						</ModulationTarget>
+					</Pan>
+					<SplitStereoPanL>
+						<LomId Value="0" />
+						<Manual Value="-1" />
+						<MidiControllerRange>
+							<Min Value="-1" />
+							<Max Value="1" />
+						</MidiControllerRange>
+						<AutomationTarget Id="16179">
+							<LockEnvelope Value="0" />
+						</AutomationTarget>
+						<ModulationTarget Id="16180">
+							<LockEnvelope Value="0" />
+						</ModulationTarget>
+					</SplitStereoPanL>
+					<SplitStereoPanR>
+						<LomId Value="0" />
+						<Manual Value="1" />
+						<MidiControllerRange>
+							<Min Value="-1" />
+							<Max Value="1" />
+						</MidiControllerRange>
+						<AutomationTarget Id="16181">
+							<LockEnvelope Value="0" />
+						</AutomationTarget>
+						<ModulationTarget Id="16182">
+							<LockEnvelope Value="0" />
+						</ModulationTarget>
+					</SplitStereoPanR>
+					<Volume>
+						<LomId Value="0" />
+						<Manual Value="1" />
+						<MidiControllerRange>
+							<Min Value="0.0003162277571" />
+							<Max Value="1.99526238" />
+						</MidiControllerRange>
+						<AutomationTarget Id="25">
+							<LockEnvelope Value="0" />
+						</AutomationTarget>
+						<ModulationTarget Id="26">
+							<LockEnvelope Value="0" />
+						</ModulationTarget>
+					</Volume>
+					<ViewStateSesstionTrackWidth Value="74" />
+					<CrossFadeState>
+						<LomId Value="0" />
+						<Manual Value="1" />
+						<AutomationTarget Id="27">
+							<LockEnvelope Value="0" />
+						</AutomationTarget>
+					</CrossFadeState>
+					<SendsListWrapper LomId="0" />
+				</Mixer>
+				<DeviceChain>
+					<Devices />
+					<SignalModulations />
+				</DeviceChain>
+			</DeviceChain>
+		</PreHearTrack>
+		<SendsPre>
+			<SendPreBool Id="0" Value="false" />
+			<SendPreBool Id="1" Value="false" />
+		</SendsPre>
+		<Scenes>
+			<Scene Id="0">
+				<FollowAction>
+					<FollowTime Value="4" />
+					<IsLinked Value="true" />
+					<LoopIterations Value="1" />
+					<FollowActionA Value="4" />
+					<FollowActionB Value="0" />
+					<FollowChanceA Value="100" />
+					<FollowChanceB Value="0" />
+					<JumpIndexA Value="0" />
+					<JumpIndexB Value="0" />
+					<FollowActionEnabled Value="false" />
+				</FollowAction>
+				<Name Value="" />
+				<Annotation Value="" />
+				<Color Value="-1" />
+				<Tempo Value="120" />
+				<IsTempoEnabled Value="false" />
+				<TimeSignatureId Value="201" />
+				<IsTimeSignatureEnabled Value="false" />
+				<LomId Value="0" />
+				<ClipSlotsListWrapper LomId="0" />
+			</Scene>
+			<Scene Id="1">
+				<FollowAction>
+					<FollowTime Value="4" />
+					<IsLinked Value="true" />
+					<LoopIterations Value="1" />
+					<FollowActionA Value="4" />
+					<FollowActionB Value="0" />
+					<FollowChanceA Value="100" />
+					<FollowChanceB Value="0" />
+					<JumpIndexA Value="0" />
+					<JumpIndexB Value="0" />
+					<FollowActionEnabled Value="false" />
+				</FollowAction>
+				<Name Value="" />
+				<Annotation Value="" />
+				<Color Value="-1" />
+				<Tempo Value="120" />
+				<IsTempoEnabled Value="false" />
+				<TimeSignatureId Value="201" />
+				<IsTimeSignatureEnabled Value="false" />
+				<LomId Value="0" />
+				<ClipSlotsListWrapper LomId="0" />
+			</Scene>
+			<Scene Id="2">
+				<FollowAction>
+					<FollowTime Value="4" />
+					<IsLinked Value="true" />
+					<LoopIterations Value="1" />
+					<FollowActionA Value="4" />
+					<FollowActionB Value="0" />
+					<FollowChanceA Value="100" />
+					<FollowChanceB Value="0" />
+					<JumpIndexA Value="0" />
+					<JumpIndexB Value="0" />
+					<FollowActionEnabled Value="false" />
+				</FollowAction>
+				<Name Value="" />
+				<Annotation Value="" />
+				<Color Value="-1" />
+				<Tempo Value="120" />
+				<IsTempoEnabled Value="false" />
+				<TimeSignatureId Value="201" />
+				<IsTimeSignatureEnabled Value="false" />
+				<LomId Value="0" />
+				<ClipSlotsListWrapper LomId="0" />
+			</Scene>
+			<Scene Id="3">
+				<FollowAction>
+					<FollowTime Value="4" />
+					<IsLinked Value="true" />
+					<LoopIterations Value="1" />
+					<FollowActionA Value="4" />
+					<FollowActionB Value="0" />
+					<FollowChanceA Value="100" />
+					<FollowChanceB Value="0" />
+					<JumpIndexA Value="0" />
+					<JumpIndexB Value="0" />
+					<FollowActionEnabled Value="false" />
+				</FollowAction>
+				<Name Value="" />
+				<Annotation Value="" />
+				<Color Value="-1" />
+				<Tempo Value="120" />
+				<IsTempoEnabled Value="false" />
+				<TimeSignatureId Value="201" />
+				<IsTimeSignatureEnabled Value="false" />
+				<LomId Value="0" />
+				<ClipSlotsListWrapper LomId="0" />
+			</Scene>
+			<Scene Id="4">
+				<FollowAction>
+					<FollowTime Value="4" />
+					<IsLinked Value="true" />
+					<LoopIterations Value="1" />
+					<FollowActionA Value="4" />
+					<FollowActionB Value="0" />
+					<FollowChanceA Value="100" />
+					<FollowChanceB Value="0" />
+					<JumpIndexA Value="0" />
+					<JumpIndexB Value="0" />
+					<FollowActionEnabled Value="false" />
+				</FollowAction>
+				<Name Value="" />
+				<Annotation Value="" />
+				<Color Value="-1" />
+				<Tempo Value="120" />
+				<IsTempoEnabled Value="false" />
+				<TimeSignatureId Value="201" />
+				<IsTimeSignatureEnabled Value="false" />
+				<LomId Value="0" />
+				<ClipSlotsListWrapper LomId="0" />
+			</Scene>
+			<Scene Id="5">
+				<FollowAction>
+					<FollowTime Value="4" />
+					<IsLinked Value="true" />
+					<LoopIterations Value="1" />
+					<FollowActionA Value="4" />
+					<FollowActionB Value="0" />
+					<FollowChanceA Value="100" />
+					<FollowChanceB Value="0" />
+					<JumpIndexA Value="0" />
+					<JumpIndexB Value="0" />
+					<FollowActionEnabled Value="false" />
+				</FollowAction>
+				<Name Value="" />
+				<Annotation Value="" />
+				<Color Value="-1" />
+				<Tempo Value="120" />
+				<IsTempoEnabled Value="false" />
+				<TimeSignatureId Value="201" />
+				<IsTimeSignatureEnabled Value="false" />
+				<LomId Value="0" />
+				<ClipSlotsListWrapper LomId="0" />
+			</Scene>
+			<Scene Id="6">
+				<FollowAction>
+					<FollowTime Value="4" />
+					<IsLinked Value="true" />
+					<LoopIterations Value="1" />
+					<FollowActionA Value="4" />
+					<FollowActionB Value="0" />
+					<FollowChanceA Value="100" />
+					<FollowChanceB Value="0" />
+					<JumpIndexA Value="0" />
+					<JumpIndexB Value="0" />
+					<FollowActionEnabled Value="false" />
+				</FollowAction>
+				<Name Value="" />
+				<Annotation Value="" />
+				<Color Value="-1" />
+				<Tempo Value="120" />
+				<IsTempoEnabled Value="false" />
+				<TimeSignatureId Value="201" />
+				<IsTimeSignatureEnabled Value="false" />
+				<LomId Value="0" />
+				<ClipSlotsListWrapper LomId="0" />
+			</Scene>
+			<Scene Id="7">
+				<FollowAction>
+					<FollowTime Value="4" />
+					<IsLinked Value="true" />
+					<LoopIterations Value="1" />
+					<FollowActionA Value="4" />
+					<FollowActionB Value="0" />
+					<FollowChanceA Value="100" />
+					<FollowChanceB Value="0" />
+					<JumpIndexA Value="0" />
+					<JumpIndexB Value="0" />
+					<FollowActionEnabled Value="false" />
+				</FollowAction>
+				<Name Value="" />
+				<Annotation Value="" />
+				<Color Value="-1" />
+				<Tempo Value="120" />
+				<IsTempoEnabled Value="false" />
+				<TimeSignatureId Value="201" />
+				<IsTimeSignatureEnabled Value="false" />
+				<LomId Value="0" />
+				<ClipSlotsListWrapper LomId="0" />
+			</Scene>
+		</Scenes>
+		<Transport>
+			<PhaseNudgeTempo Value="10" />
+			<LoopOn Value="false" />
+			<LoopStart Value="8" />
+			<LoopLength Value="16" />
+			<LoopIsSongStart Value="false" />
+			<CurrentTime Value="67.761632653061227" />
+			<PunchIn Value="false" />
+			<PunchOut Value="false" />
+			<MetronomeTickDuration Value="0" />
+			<DrawMode Value="false" />
+		</Transport>
+		<SongMasterValues>
+			<SessionScrollerPos X="0" Y="0" />
+		</SongMasterValues>
+		<SignalModulations />
+		<GlobalQuantisation Value="4" />
+		<AutoQuantisation Value="0" />
+		<Grid>
+			<FixedNumerator Value="1" />
+			<FixedDenominator Value="16" />
+			<GridIntervalPixel Value="20" />
+			<Ntoles Value="2" />
+			<SnapToGrid Value="true" />
+			<Fixed Value="false" />
+		</Grid>
+		<ScaleInformation>
+			<RootNote Value="0" />
+			<Name Value="Major" />
+		</ScaleInformation>
+		<InKey Value="false" />
+		<SmpteFormat Value="0" />
+		<TimeSelection>
+			<AnchorTime Value="64" />
+			<OtherTime Value="64" />
+		</TimeSelection>
+		<SequencerNavigator>
+			<BeatTimeHelper>
+				<CurrentZoom Value="2.1650241858492847" />
+			</BeatTimeHelper>
+			<ScrollerPos X="0" Y="0" />
+			<ClientSize X="753" Y="407" />
+		</SequencerNavigator>
+		<IsContentSplitterOpen Value="true" />
+		<IsExpressionSplitterOpen Value="true" />
+		<ExpressionLanes>
+			<ExpressionLane Id="0">
+				<Type Value="0" />
+				<Size Value="41" />
+				<IsMinimized Value="false" />
+			</ExpressionLane>
+			<ExpressionLane Id="1">
+				<Type Value="1" />
+				<Size Value="41" />
+				<IsMinimized Value="false" />
+			</ExpressionLane>
+			<ExpressionLane Id="2">
+				<Type Value="2" />
+				<Size Value="41" />
+				<IsMinimized Value="true" />
+			</ExpressionLane>
+			<ExpressionLane Id="3">
+				<Type Value="3" />
+				<Size Value="41" />
+				<IsMinimized Value="true" />
+			</ExpressionLane>
+		</ExpressionLanes>
+		<ContentLanes>
+			<ExpressionLane Id="0">
+				<Type Value="4" />
+				<Size Value="41" />
+				<IsMinimized Value="false" />
+			</ExpressionLane>
+			<ExpressionLane Id="1">
+				<Type Value="5" />
+				<Size Value="25" />
+				<IsMinimized Value="true" />
+			</ExpressionLane>
+		</ContentLanes>
+		<ViewStateFxSlotCount Value="4" />
+		<ViewStateSessionMixerHeight Value="120" />
+		<Locators>
+			<Locators />
+		</Locators>
+		<DetailClipKeyMidis />
+		<TracksListWrapper LomId="0" />
+		<VisibleTracksListWrapper LomId="0" />
+		<ReturnTracksListWrapper LomId="0" />
+		<ScenesListWrapper LomId="0" />
+		<CuePointsListWrapper LomId="0" />
+		<ChooserBar Value="0" />
+		<Annotation Value="" />
+		<SoloOrPflSavedValue Value="true" />
+		<SoloInPlace Value="true" />
+		<CrossfadeCurve Value="2" />
+		<LatencyCompensation Value="2" />
+		<HighlightedTrackIndex Value="1" />
+		<GroovePool>
+			<LomId Value="0" />
+			<Grooves />
+		</GroovePool>
+		<AutomationMode Value="false" />
+		<SnapAutomationToGrid Value="true" />
+		<ArrangementOverdub Value="false" />
+		<ColorSequenceIndex Value="510772544" />
+		<AutoColorPickerForPlayerAndGroupTracks>
+			<NextColorIndex Value="9" />
+		</AutoColorPickerForPlayerAndGroupTracks>
+		<AutoColorPickerForReturnAndMasterTracks>
+			<NextColorIndex Value="1" />
+		</AutoColorPickerForReturnAndMasterTracks>
+		<ViewData Value="{}" />
+		<ResetNonautomatedMidiControllersOnClipStarts Value="true" />
+		<MidiFoldIn Value="false" />
+		<MidiFoldMode Value="0" />
+		<MultiClipFocusMode Value="false" />
+		<MultiClipLoopBarHeight Value="0" />
+		<MidiPrelisten Value="false" />
+		<LinkedTrackGroups />
+		<AccidentalSpellingPreference Value="3" />
+		<PreferFlatRootNote Value="false" />
+		<UseWarperLegacyHiQMode Value="false" />
+		<VideoWindowRect Top="-2147483648" Left="-2147483648" Bottom="-2147483648" Right="-2147483648" />
+		<ShowVideoWindow Value="true" />
+		<TrackHeaderWidth Value="93" />
+		<ViewStateArrangerHasDetail Value="true" />
+		<ViewStateSessionHasDetail Value="true" />
+		<ViewStateDetailIsSample Value="false" />
+		<ViewStates>
+			<SessionIO Value="1" />
+			<SessionSends Value="1" />
+			<SessionReturns Value="1" />
+			<SessionMixer Value="1" />
+			<SessionTrackDelay Value="0" />
+			<SessionCrossFade Value="0" />
+			<SessionShowOverView Value="0" />
+			<ArrangerIO Value="1" />
+			<ArrangerReturns Value="1" />
+			<ArrangerMixer Value="1" />
+			<ArrangerTrackDelay Value="0" />
+			<ArrangerShowOverView Value="1" />
+		</ViewStates>
+	</LiveSet>
+</Ableton>
