@@ -1,5 +1,5 @@
 # Convert .als to .cue: 
-# python3 AbletonToCue.py "/mnt/c/Users/martin/Documents/martinradio/musicproduction/multi track mix demo project Project/multi track mix demo project.als"
+# python3 AbletonToCue.py "/mnt/e/martinradio/musicproduction/ableton projects/inflation mix Project/inflation 2.als"
 
 import gzip
 import xml.etree.ElementTree as ET
